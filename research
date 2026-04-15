@@ -1,0 +1,245 @@
+# GEOPOLITICA DEEP RESEARCH PROMPT
+## Intelligence Gap-Fill & Predictive Model Enhancement
+### For use with Claude Opus 4.6 Extended Research Mode
+
+---
+
+## RESEARCH OBJECTIVE
+
+You are conducting deep background research to support an ongoing real-time geopolitical intelligence analysis of the 2026 Iran-US war. The analysis operates under a framework called GEOPOLITICA that tracks the conflict across military, diplomatic, economic, information, and financial dimensions simultaneously.
+
+The purpose of this research is NOT to summarize what has happened. We have extensive real-time coverage of events. The purpose is to fill specific intelligence gaps that limit our predictive accuracy — the things we don't know that we should know, the options that exist but haven't been deployed yet, the historical patterns that would help us anticipate rather than react.
+
+**Organize your findings under each numbered section below. Be exhaustive. Prioritize information that has predictive value — things that help us anticipate what comes next rather than just describing what already happened.**
+
+---
+
+## SECTION 1: THE FULL ESCALATION MENU — OPTIONS NOT YET DEPLOYED
+
+We were blindsided by the naval blockade because we didn't map the complete set of escalation options available to each actor. Fix this.
+
+### 1A. US Military Options Still Available
+Research and enumerate EVERY military and quasi-military option the United States has available against Iran that has NOT yet been deployed in this conflict, including:
+
+- Cyber warfare capabilities (Stuxnet-style attacks on infrastructure, financial system disruption, communications blackout tools). What specific programs exist? What's the doctrine for deployment? What are the precedents?
+- Economic warfare beyond sanctions — what additional financial instruments can the US deploy? Secondary sanctions on Chinese banks buying Iranian oil? SWIFT disconnection for countries that defy the blockade? Treasury Department tools?
+- Covert action options — what does the CIA's Iran operations division look like? What's the history of US-supported separatist movements (Balochistan, Kurdistan, Ahwazi Arabs, Azerbaijani minorities)? Could these be activated as pressure tools?
+- Information warfare and psychological operations — what PSYOP capabilities does CENTCOM have? Are there historical precedents for leaflet/broadcast campaigns against Iran? Radio Farda and other US-funded Farsi media?
+- Electromagnetic warfare — what EMP or directed energy capabilities exist that could disable Iranian infrastructure without kinetic strikes?
+- Space-based options — could the US disable Iranian satellite capabilities or communications infrastructure from space?
+- Mining operations — could the US mine Iranian ports as a complement to the blockade?
+- Seizure of Iranian assets abroad — what Iranian government assets exist outside Iran that could be seized? Embassy properties, central bank reserves, sovereign investments?
+- What military escalation options has the US used in OTHER conflicts (Venezuela, North Korea, Libya, Iraq, Syria) that could be template-transferred to the Iran situation?
+
+### 1B. Iranian Options Still Available
+Research and enumerate every military, economic, and asymmetric option Iran has available that has NOT yet been deployed:
+
+- What advanced weapons systems has Iran held in reserve? Research Fattah-2 hypersonic capabilities, Etemad cruise missiles, Qasem cruise missiles, submarine-launched weapons, drone swarm capabilities beyond what's been demonstrated
+- Proxy activation options not yet deployed — could Iran activate sleeper cells in Gulf states? What about Shia populations in Bahrain, Saudi Eastern Province, Kuwait? What's the history of Iranian-linked operations in these countries?
+- Nuclear escalation ladder — what are the specific technical steps between Iran's current position (200+ kg of 60% HEU) and a demonstrable nuclear capability? What would a "nuclear ambiguity" signal look like versus an actual test versus a deliverable weapon? How would each be detected?
+- Hormuz escalation beyond current levels — could Iran physically destroy the Strait's navigability through demolition of the channel? What about undersea sabotage of desalination plants or underwater cables in the Gulf?
+- Cyber capabilities — what is known about Iran's offensive cyber capacity? APT33, APT34, APT35 group capabilities? Could Iran disrupt US financial systems, power grids, or military communications?
+- Third-party retaliation — could Iran strike at US interests through actions in Afghanistan, Central Asia, or the Caucasus? What about leveraging the Taliban relationship?
+- Economic countermeasures — could Iran organize an oil embargo in reverse, where friendly states (China, Russia, India) refuse to sell goods to countries supporting the blockade?
+
+### 1C. Israeli Options Still Available
+- What additional escalation steps could Israel take in Lebanon beyond current operations? Full occupation to the Litani? Extension to the Beqaa Valley? Targeting Lebanese state infrastructure?
+- What covert options exist against Iranian nuclear facilities that don't require US cooperation? Submarine-launched cruise missiles from Dolphin-class subs? Mossad sabotage operations?
+- Could Israel unilaterally strike the Isfahan underground complex? What weapons would be required? Does Israel have bunker-buster capabilities independent of the US?
+- What's Israel's doctrine for preemptive strike against a nuclear-threshold state? How does the "Begin Doctrine" apply in 2026?
+
+---
+
+## SECTION 2: HISTORICAL PATTERN MATCHING
+
+### 2A. Naval Blockades in Modern History
+Research every naval blockade since 1945 in detail:
+- Cuba 1962 (quarantine): How was it structured? What were the rules of engagement? How did it end? What were the economic effects? How did the Soviets respond?
+- Israel's blockade of Gaza (2007-present): Legal framework, enforcement mechanisms, humanitarian provisions, international response
+- UN/US blockade of Iraq (1990-2003): How did it work in practice? Smuggling routes? Economic devastation timeline? Oil-for-food program?
+- Saudi/UAE blockade of Yemen/Houthi ports: Structure, effectiveness, humanitarian consequences
+- Any others I'm missing
+
+For each: How long did it last? What broke it? What were the unintended consequences? How did the target state adapt?
+
+### 2B. Wars That Ended Through Exhaustion Rather Than Treaty
+Research conflicts that ended not through formal agreement but through mutual exhaustion:
+- Iran-Iraq War (1980-88): How did the "war of the cities" pattern compare to current oscillation? What was the economic breaking point for each side?
+- Korean War: How did the armistice emerge? What was the role of Chinese intervention in forcing a stalemate?
+- First Indochina War / Vietnam: The exhaustion timeline — how long from "this is unwinnable" to actual withdrawal?
+- Soviet-Afghan War: Economic drain metrics, domestic political fracture timeline, the role of Stinger missiles as a cost-imposition strategy
+- US in Iraq (2003-2011): How did "declare victory and leave" actually work in practice?
+
+For each: What was the lead indicator that signaled the conflict was entering its terminal phase? How far in advance of actual resolution did that signal appear?
+
+### 2C. Oil Weapon Deployments
+- 1973 OPEC embargo: Timeline from embargo to economic impact to political resolution. How long before consumer prices peaked? How long before the embargo was lifted? What were the secondary economic effects (stagflation, recession)?
+- 1979 Iranian Revolution oil shock: Different mechanism (supply disruption vs deliberate embargo). Timeline of impact.
+- 1990 Iraqi invasion of Kuwait: Oil price spike, SPR release effectiveness, timeline of normalization
+- 2019 Abqaiq-Khurais attacks: Short-duration supply shock. How fast did markets recover? What prevented sustained disruption?
+
+For each: What was the lag between supply disruption and consumer price impact? How did governments respond? What was the timeline for economic damage to become politically intolerable?
+
+---
+
+## SECTION 3: THE FINANCIAL WARFARE DIMENSION
+
+### 3A. Market Manipulation Detection
+Research and compile:
+- What are the known methods for detecting insider trading around geopolitical events? What tools do the SEC, CFTC, and international regulators use?
+- What is the legal framework for insider trading on prediction markets? What laws currently apply? What bills are pending in Congress?
+- The Harvard study estimating $143 million in insider profits on Polymarket — what was their methodology? What patterns did they identify? Can those patterns be used to detect future insider activity in real time?
+- Historical examples of market manipulation during wartime — did this happen during Iraq 2003? During the Gulf War? During the Libyan intervention?
+- What financial instruments are most susceptible to manipulation during geopolitical crises? Options? Futures? ETFs? Prediction markets? What's the typical lag between insider positioning and public announcement?
+
+### 3B. Paper-Physical Oil Spread History
+- Has a divergence of this magnitude ($37-40 per barrel) between futures and physical oil prices ever occurred before? If so, when and how did it resolve?
+- What mechanisms exist for the paper and physical markets to reconverge? Does the physical price come down or does the futures price go up? What triggers convergence?
+- What are the second-order financial effects of sustained paper-physical divergence? Who gets hurt? Who profits? What institutional risks does it create (counterparty exposure, margin calls, clearinghouse stress)?
+
+### 3C. Defense Stock Dynamics During Extended Conflicts
+- How have defense stocks (Lockheed Martin, Raytheon/RTX, Northrop Grumman, Palantir, General Dynamics) performed during the first 6 weeks of this war versus historical conflict periods?
+- What is the relationship between defense spending authorization and defense stock performance? Does the stock move on the authorization or the actual contract award?
+- Has a sitting US president ever publicly endorsed a defense contractor by ticker symbol during wartime before the Palantir tweet? What are the legal implications?
+
+---
+
+## SECTION 4: OPERATIONAL INTELLIGENCE — LOGISTICS AND CAPABILITIES
+
+### 4A. US Military Readiness Constraints
+Research the current state of US military logistics:
+- JASSM (Joint Air-to-Surface Standoff Missile) inventory: What is current production rate? How many were used in this conflict? What's the estimated remaining inventory? How long to replenish?
+- Patriot and THAAD interceptor production rates: Annual production capacity versus consumption rate during the Iran war. When does the "interceptor gap" become operationally critical?
+- Strategic Petroleum Reserve: Current level after March drawdown. How many days of supply remain? At what level does drawing further become a national security risk?
+- C-17 airlift capacity: How many sorties per day can sustain the resupply operation? What's the logistics chain from US production facilities to Gulf-based batteries?
+- Aircraft carrier deployment rotations: How long can the Lincoln and Ford strike groups remain on station? When is crew rotation/maintenance required? What's the typical deployment cycle?
+- B-2 Spirit availability: How many are operational? What's the sortie rate from Diego Garcia? From Whiteman AFB?
+
+### 4B. Iranian Military Reconstitution
+- How quickly can Iran rebuild missile capabilities from tunnel-stored components? What's the estimated inventory of unassembled missile kits in underground facilities?
+- Iran's mine warfare capability: What types of naval mines does Iran possess? How many? How quickly can the IRGC reseed the Strait if mines are swept?
+- Iran's air defense reconstitution: With all S-300s destroyed, what backup systems exist? Chinese-supplied radars? Indigenously produced systems? What's the timeline to restore any meaningful air defense capability?
+- IRGC naval fast-attack craft: How many survived? What anti-ship missile capabilities remain? What's the doctrine for swarm attacks against carrier groups?
+
+### 4C. Israeli Military Sustainability
+- IDF force rotation requirements for simultaneous Lebanon ground operations and potential Iran strike capability
+- Iron Dome / David's Sling / Arrow interceptor inventory status after sustained Hezbollah bombardment
+- Israeli submarine deployment patterns: Where are the Dolphin-class boats positioned? What are their nuclear-capable cruise missile loadouts?
+
+---
+
+## SECTION 5: INTERNAL POLITICS AND POWER DYNAMICS
+
+### 5A. Iranian Internal Power Structure — The Mojtaba Question
+Research everything available on:
+- Who is actually governing Iran right now? What institutional mechanisms exist when the Supreme Leader is incapacitated?
+- The Guardian Council's role during leadership transitions — what powers do they have? Who sits on the current council?
+- The Expediency Council: current membership, constitutional role, potential to act as a de facto governing body
+- IRGC command structure post-decapitation: Who replaced Salami, Hajizadeh, Bagheri, Pakpour? What are their known policy orientations? More hawkish or more pragmatic than their predecessors?
+- Ghalibaf's political ambitions: Is he positioning himself as a potential Supreme Leader alternative? What's his relationship with the IRGC versus the clerical establishment?
+- The Qom seminary establishment: What are the senior ayatollahs saying? Is there a theological debate about nuclear weapons given the late Khamenei's fatwa?
+
+### 5B. US Domestic Political Dynamics
+- Congressional war powers: What legal authority is the Iran war being conducted under? Has an AUMF been passed? What are the War Powers Resolution constraints? When does the 60-day clock require congressional authorization?
+- The MAGA fracture: Compile a comprehensive map of which conservative media figures and politicians have broken with Trump on the war versus which remain supportive. What's the distribution? Is it growing?
+- Polling data: What do current polls show on public support for the war? How has it changed since February? What's the breakdown by party, age, region?
+- Midterm election exposure: Which Republican incumbents are most vulnerable to anti-war sentiment? Which districts have the highest gas prices? What's the historical relationship between gas prices and incumbent party performance in midterms?
+
+### 5C. Netanyahu's Legal Situation — Detailed Timeline
+- What is the current status of each of the three corruption cases (Cases 1000, 2000, 4000)?
+- What procedural mechanisms has Netanyahu's legal team used to delay proceedings?
+- What is the Israeli legal precedent for trying a sitting PM during wartime?
+- What are the specific upcoming court dates through the end of April?
+- What would conviction look like procedurally? Sentencing timeline? Appeal options? Could he remain PM while appealing?
+
+---
+
+## SECTION 6: ALLIANCE DYNAMICS AND THIRD-PARTY MOVES
+
+### 6A. Saudi-Iranian Backchannel
+- What is the history of Saudi-Iranian direct communication during conflicts? The 2023 China-brokered deal details and what communication infrastructure it established
+- What would a Saudi-Iranian bilateral deal look like that bypasses the US? What are the incentive structures?
+- What is MBS's current position on Vision 2030 viability given infrastructure damage? Has there been any public or leaked reassessment?
+
+### 6B. China's Positioning
+- What specific diplomatic proposals has China made regarding the conflict? The 5-point peace initiative details?
+- Chinese naval capabilities in the region: What ships are present? What's the doctrine for protecting Chinese commercial shipping in a contested waterway?
+- BeiDou navigation system provision to Iran: What military significance does this have? Does it give Iran precision targeting capability independent of GPS?
+- Chinese strategic petroleum reserve status: How many days of supply? What's the drawdown rate? At what point does Hormuz closure become a Chinese national security emergency?
+
+### 6C. Pakistan's Mediator Role
+- General Asim Munir's background, relationships, and strategic orientation in detail
+- Pakistan's nuclear deterrent as a factor in its mediator credibility — how does being a nuclear state affect its leverage?
+- The Pakistan-Iran border dynamics: smuggling routes, Balochistan insurgency, potential for the border to become a conflict vector
+- What would a Pakistan-hosted permanent diplomatic framework look like? Is there precedent for Pakistan hosting ongoing international negotiations?
+
+### 6D. European Fracture Lines
+- Map the specific positions of each major European state on the war, the blockade, and the Lebanon question
+- The Italian defense agreement suspension with Israel — what specifically was suspended? What are the implications?
+- French independent Hormuz initiative details — what military assets? What rules of engagement? How does it interact with the US blockade?
+- The Pope factor: What institutional weight does Vatican diplomatic intervention carry? Historical examples of papal mediation in conflicts?
+
+---
+
+## SECTION 7: ECONOMIC CASCADE MODELING
+
+### 7A. Supply Chain Disruption Timelines — Granular Detail
+For each major commodity/product category flowing through Hormuz, research:
+- Current inventory levels at destination (US, Europe, Asia)
+- Days of supply remaining at current consumption rates
+- Substitution options and their cost/time to activate
+- The specific week when shortages become visible to consumers
+
+Categories to cover: crude oil, LNG, fertilizer (urea, ammonia), polyethylene/plastics, aluminum, sulfur, helium, petrochemical feedstocks
+
+### 7B. Inflation Transmission Mechanism
+- What is the typical lag between crude oil price spikes and gasoline pump price changes? (Usually 2-3 weeks, but verify for current conditions)
+- What is the lag between fertilizer price spikes and food price increases at retail? (Usually 4-8 months, but verify)
+- What is the lag between shipping cost increases and consumer goods price increases? (Usually 6-12 weeks, but verify)
+- What are current inflation expectations as measured by TIPS breakevens, University of Michigan survey, and Fed forecasts? How do these compare to actual realized inflation?
+
+### 7C. Recession Indicators
+- Current state of leading economic indicators: yield curve, ISM manufacturing, consumer confidence, initial jobless claims, housing starts
+- Historical relationship between oil price shocks and recessions: What oil price level sustained for how long has historically triggered recession? Are we approaching that threshold?
+- Credit card delinquency rates: current level, trend, and the threshold that historically signals consumer distress
+- Corporate earnings revision trends: Are analysts revising Q2/Q3 estimates downward? By how much? In which sectors?
+
+---
+
+## SECTION 8: SCENARIO-SPECIFIC DEEP DIVES
+
+### 8A. What Does "Iran Demonstrates Nuclear Capability" Actually Look Like?
+Walk through the specific technical and diplomatic scenarios:
+- A nuclear test (underground): What would the seismic signature look like? How quickly would it be detected? What would the international response chain be? Historical precedents (North Korea 2006, 2009, 2013, 2016, 2017)
+- A "cold test" or subcritical experiment: What is this? How would it be detected? What would it signal?
+- Deliberate ambiguity: Iran announces it has "achieved nuclear capability" without testing. What evidence would support or refute this? How would the US, Israel, and IAEA respond?
+- The "Japan option": Iran maintains all components for a weapon without assembling one, as a permanent latent deterrent. Is this Iran's most likely path? What are the precedents?
+
+### 8B. What Does "US Military Withdrawal from the Gulf" Actually Look Like?
+- What is the current US force structure in the region? (Bases, troop counts, equipment, by country)
+- What would a phased drawdown look like? What goes first? What's the timeline?
+- What happens to the countries hosting US bases if the US leaves? How do they recalculate their security arrangements?
+- Historical parallels: US withdrawal from Vietnam, US drawdown from Iraq, US withdrawal from Afghanistan. What was the timeline from "we're leaving" to "we're gone"?
+
+### 8C. What Does "Hormuz Reopens" Actually Look Like?
+- What minesweeping capability does the US/coalition have? How long does clearing the Strait take?
+- What international maritime framework could replace the current "IRGC new management" model? Who would administer it?
+- What's the insurance industry's threshold for resuming coverage? What conditions would Lloyd's and other maritime insurers require?
+- How long after mines are cleared and insurance resumes would shipping return to pre-war levels? What's the ramp-up curve?
+
+---
+
+## OUTPUT FORMAT
+
+For each section, provide:
+1. **Key findings** — the most important facts discovered
+2. **Predictive implications** — how this information changes what we should expect to happen next
+3. **Watch indicators** — specific observable events or data points that would signal this factor is becoming active
+4. **Confidence assessment** — how reliable are the sources for this information? What's still unknown?
+5. **Sources** — cite specific reports, analyses, databases, or expert assessments used
+
+**CRITICAL: Prioritize information that helps predict WHAT HAPPENS NEXT over information that describes WHAT ALREADY HAPPENED. The value of this research is anticipatory, not retrospective.**
+
+---
+
+*This research prompt is version 1.0 of the GEOPOLITICA intelligence gap-fill protocol. It should be updated after each analytical cycle based on which gaps proved most costly to predictive accuracy.*
