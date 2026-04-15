@@ -1,0 +1,202 @@
+# GEOPOLITICA DEEP RESEARCH PROMPT — VERSION 2.0
+## Targeted Intelligence Gap-Fill (Post-V1 Report Integration)
+### For use with Claude Opus 4.6 Extended Research Mode
+
+---
+
+## RESEARCH CONTEXT
+
+This is a follow-up research request. A previous research pass (V1) successfully covered: US/Iran/Israel military options, munitions math (JASSM/THAAD/Tomahawk inventories), Iranian internal politics (Vahidi vs Ghalibaf dyarchy), US War Powers Resolution timeline, historical blockade patterns, nuclear scenarios, Hormuz reopening constraints, and general supply chain disruption timelines.
+
+**DO NOT repeat V1 coverage.** This prompt targets ONLY the gaps that remain. Each section below is designed to be handled by a single research subagent. There are exactly 10 sections, each scoped to be completable independently.
+
+**Output standard for every section:** Findings must be specific, sourced, and predictive. For every fact, state WHY it matters for anticipating what happens next. No background summaries — only actionable intelligence.
+
+---
+
+## SECTION 1: THE APRIL 29 WAR POWERS VOTE — Congressional Vote Count
+
+The War Powers Resolution 60-day clock expires around April 29, 2026. V1 identified that Republican senators Curtis (UT), Collins (ME), Tillis (NC), and Young (IN) have signaled opposition to continuing without authorization. But we need the full map.
+
+Research and compile:
+- **Complete list of every member of Congress** (House and Senate) who has publicly stated a position on the Iran war, war powers, or the 60-day deadline. Categorize as: Supports continued operations / Opposes without authorization / Uncommitted / Silent
+- The three previous war powers votes that failed (47-53, 212-219, 47-53) — who were the specific crossover votes? Who voted against party? Who abstained?
+- Which Republican House members are in districts where gas prices exceed $4.50/gallon? Cross-reference with their war powers positions
+- Which senators are up for re-election in 2026 midterms and in competitive races? How does their war vote exposure affect their calculus?
+- What procedural mechanisms exist for Congress to force a vote? Can Schumer or Jeffries compel a floor vote? What about discharge petitions?
+- What happens legally if the 60-day deadline passes without authorization AND Trump refuses to withdraw? Has this constitutional confrontation ever occurred? What are the judicial precedents?
+- Senator Rand Paul's specific legislative proposals — what exactly do his war powers bills say? Co-sponsors?
+
+**Predictive output needed:** A realistic vote count projection for a War Powers vote in the last week of April, identifying the 5-10 most likely Republican defectors in each chamber and what would push them to break.
+
+---
+
+## SECTION 2: THE GHALIBAF-VAHIDI POWER STRUGGLE — Iranian Decision-Making Mechanics
+
+V1 established that Ghalibaf leads the pragmatist faction and Vahidi controls the military/hardline faction. But we need the operational detail of how this power struggle actually functions.
+
+Research and compile:
+- **Ahmad Vahidi's complete biography:** IRGC career, AMIA bombing involvement, his specific policy positions on the nuclear program, his known relationships with IRGC commanders, his stance on negotiation vs. resistance. What has he said publicly since the war began?
+- **Ghalibaf's negotiating authority:** What institutional mechanisms limit or empower him? Can the Parliament Speaker negotiate on behalf of the state without Supreme Leader approval? Without IRGC consent? What happened procedurally before the Islamabad talks — who authorized Ghalibaf to attend?
+- **The Guardian Council's current role:** Who are the current 12 members? Which faction does each align with? In the absence of a functioning Supreme Leader, does the Guardian Council's power expand? Can it override the IRGC?
+- **The Expediency Discernment Council:** Current chair and membership. Is this body functioning? Could it serve as a de facto governing council during Supreme Leader incapacitation?
+- **Mojtaba Khamenei's actual status:** Compile every available source reporting on his condition since March 9. i24NEWS, IRGC-affiliated media, BBC Persian, Iran International, Amad News. What is the sourcing quality? Is there a consensus or conflicting reports? Has any video/audio/photograph been released?
+- **The Qom seminary:** What are senior Grand Ayatollahs (Makarem Shirazi, Nouri Hamedani, Javadi Amoli — if still alive) saying about the war, the nuclear question, and the successor? Is there a theological debate about weapons?
+- **IRGC replacement commanders:** Who replaced Salami, Hajizadeh, Bagheri, Pakpour after their assassinations? What are their known policy orientations? Are they Vahidi loyalists or independent actors?
+
+**Predictive output needed:** An assessment of whether Ghalibaf can deliver a deal that the IRGC will actually implement, or whether any agreement he signs would be vetoed by Vahidi's military control. What specific conditions would tip the balance?
+
+---
+
+## SECTION 3: SAUDI ARABIA'S DUAL GAME — The Backchannel and the Pipeline
+
+V1 noted Saudi officials talk to Iran "daily" and that Iran attacked the East-West pipeline. This section needs to go much deeper.
+
+Research and compile:
+- **The 2023 Beijing deal infrastructure:** What specific communication mechanisms were established? Hotline? Ambassador-level? Intelligence-to-intelligence? How has this been used during the current war?
+- **What are the Saudis offering Iran through the backchannel?** Reconstruction aid? Economic normalization? Security guarantees? Or just managing the crisis to prevent it spilling into Saudi territory?
+- **The East-West pipeline attack (early April 2026):** What exactly happened? How much damage? What capacity is remaining? If Saudi Arabia's entire export strategy depends on bypassing Hormuz via this pipeline to Red Sea ports, and Iran attacked it, what does that mean for Saudi's vulnerability? How quickly can it be repaired?
+- **Saudi oil export data since Feb 28:** How many barrels per day is Saudi actually exporting? Through which routes? Has the Kingdom managed to maintain revenue, or is it also bleeding financially?
+- **MBS's phone calls to Trump advocating military action** (reported in V1): What specifically did MBS advocate? Strikes on what targets? Is Saudi Arabia pushing for regime change or just Hormuz reopening?
+- **The Saudi-Pakistan military deployment:** What Pakistani forces are at King Abdulaziz airbase? What are their rules of engagement? Is this a defense pact activation or a symbolic gesture?
+- **Saudi nuclear hedging:** With Iran potentially moving toward a weapon, what's the status of Saudi nuclear cooperation with Pakistan? The alleged "shelf agreement" for Pakistani nuclear weapons transfer? Chinese nuclear cooperation? Is Vision 2030 now dead or being restructured?
+
+**Predictive output needed:** Is Saudi Arabia positioning to broker a separate peace with Iran that excludes the US? What would that deal look like? What would trigger MBS to break from Washington?
+
+---
+
+## SECTION 4: CHINA'S MILITARY AND ECONOMIC BACKDOOR TO IRAN
+
+V1 flagged that CNN reported China "preparing to ship MANPADs to Iran through third countries" and that sanctioned ships carried sodium perchlorate (rocket fuel) from China to Iran. This has massive implications that weren't analyzed.
+
+Research and compile:
+- **The MANPAD report:** What specific MANPAD systems? QW-series? FN-6? What would Iranian possession of modern Chinese MANPADs mean for US/Israeli air operations? Could they threaten F-35s, helicopters, drones, low-altitude strike aircraft?
+- **Sodium perchlorate shipments:** How many shipments have been documented? What quantities? What is the conversion ratio — how many missiles can X tons of sodium perchlorate produce? Which ports were used? Is this ongoing despite the blockade?
+- **China's naval presence in the region:** What PLAN vessels are currently deployed? What is their stated mission? What are their actual capabilities? Could Chinese naval assets interfere with the US blockade, even passively (e.g., escorting Chinese-flagged tankers)?
+- **The bilateral safe passage agreement:** China negotiated passage for Chinese-flagged vessels through the Strait. How is this enforced? Does the IRGC honor it? How many Chinese ships have transited since the agreement?
+- **BeiDou satellite navigation provision to Iran:** Confirmed or rumored? If Iran has access to BeiDou, does this give it GPS-independent precision targeting? What does that mean for Iranian missile accuracy post-war?
+- **China's strategic petroleum reserve drawdown rate:** V1 said 1.2-1.4 billion barrels with 90-109 days cover. But what's the actual drawdown rate since Feb 28? Is China drawing reserves or still receiving oil through alternative routes?
+- **At what point does Hormuz closure become a Chinese national security crisis?** What's the threshold — 60 days? 90 days? 6 months? What actions would China take if pushed to that threshold?
+- **Wang Yi's 20+ calls with regional foreign ministers:** To whom specifically? What was discussed? Any leaked summaries?
+
+**Predictive output needed:** Is China actively working to sustain Iran's military capability during the conflict? If so, at what scale and through what mechanisms? What's China's red line where it shifts from diplomatic positioning to direct intervention?
+
+---
+
+## SECTION 5: THE INSURANCE MARKET AS INTELLIGENCE INDICATOR
+
+V1 identified that insurance repricing is a leading indicator — "informed actors expect resolution" when Lloyd's starts lowering premiums. This needs to be developed into a usable predictive tool.
+
+Research and compile:
+- **How does maritime war-risk insurance actually work?** Who makes the decisions? The Lloyd's Market Association Joint War Committee — who sits on it? How often do they meet? What data do they use?
+- **Current premium levels for Hormuz transit:** What are the exact rates today? How do they compare to pre-war? How do they compare to the peak? Any recent changes?
+- **Historical premium patterns during conflicts:** How did premiums behave during the 1980s Tanker War? During the 2019 tanker attacks? During the Houthi Red Sea campaign 2024-2025? What was the lag between military de-escalation and premium reduction?
+- **The P&I Club dimension:** Protection and Indemnity clubs cover liability. Have any P&I clubs issued advisories about Hormuz? What are their conditions for resuming coverage?
+- **Reinsurance market signals:** Munich Re, Swiss Re, Hannover Re — have they published any assessments of the conflict's insured loss exposure? What are their projections?
+- **Ship-specific data:** How many vessels are currently stranded in the Gulf? What's their total cargo value? What's the daily cost of having them idle (demurrage, crew, insurance)? Who bears this cost? At what point does the stranded fleet become a financial crisis for shipowners?
+- **Flag state data:** Which flag states has Iran granted passage to? (V1 listed China, Russia, India, Iraq, Pakistan, Malaysia, Thailand, Philippines). Which major shipping nations are still excluded? What percentage of global tonnage do the permitted flags represent?
+
+**Predictive output needed:** What specific insurance market indicators should we monitor weekly to detect whether informed maritime actors believe resolution is approaching? What premium level or JWC decision would signal a genuine turning point versus just noise?
+
+---
+
+## SECTION 6: COMMODITY-BY-COMMODITY SUPPLY VULNERABILITY
+
+V1 gave a general timeline (weeks 1-2: oil, weeks 2-6: sulfur/helium, months 1-3: plastics/aluminum, months 3-9: food). We need the granular data for each commodity to build a precise "when does this hit consumers" calendar.
+
+Research and compile for EACH of the following commodities the specific days/weeks of remaining inventory at destination markets (US, Europe, key Asian countries), the substitution options and their cost, and the specific consumer products that will be affected first:
+
+- **Urea/ammonia fertilizer:** Current US inventory levels. Import dependency percentage. Alternative suppliers (Russia, North Africa, Southeast Asia). Timeline before spring planting decisions are irreversibly locked in. What crops are most affected?
+- **Polyethylene/plastics feedstock:** Current US inventory of plastic pellets. Which products run out first — packaging? Medical supplies? Auto parts? How long before manufacturers switch to alternatives?
+- **Sulfur:** V1 mentioned "near total" disruption to US defense supply chains. What specific defense products need sulfur? How many days of inventory? Civilian uses — tire production, industrial chemicals?
+- **Helium:** V1 said one-third of global production impacted. MRI scanner shutdowns — which hospitals are affected? Semiconductor fabrication — which fabs are slowing? Timeline?
+- **Aluminum:** Gulf states produce 20% of raw exports. What's the inventory at LME warehouses? Which industries hit first?
+- **LNG:** European storage at 28% on April 1. Daily consumption rate? At what date does Europe face a genuine heating/power crisis if Hormuz stays closed? What about Asian LNG dependency?
+- **Refined petroleum products:** Middle distillates (diesel, jet fuel) — V1 mentioned Singapore prices at all-time highs above $290/bbl. What does this mean for airline operations? Trucking costs? Agricultural diesel?
+
+**Predictive output needed:** A week-by-week calendar of which specific consumer-facing shortages become visible in the US, Europe, and Asia over the next 60 days, assuming Hormuz remains at current ~95% disruption levels.
+
+---
+
+## SECTION 7: THE PAPER-PHYSICAL OIL SPREAD — How Convergence Works
+
+V1 documented the $35-40 spread between Dated Brent ($132-144) and Brent futures (~$92-102). Goldman warned of a potential $20-50 upward snap in futures. But we need to understand the MECHANICS of how this spread resolves.
+
+Research and compile:
+- **Has a physical-futures spread of this magnitude ever occurred before?** If so, when, why, and how did it resolve? The April 2020 negative WTI event was mentioned but was demand-driven. Are there ANY supply-driven precedents?
+- **What forces convergence?** Does the physical price drop or do futures rise? Or both? What determines which side moves?
+- **The role of contango vs. backwardation:** Current structure is extreme backwardation (near-term prices higher than future delivery). What does the futures curve look like month by month? What does the shape of the curve tell us about market expectations for resolution timing?
+- **Who is positioned on each side of this trade?** Who benefits from the spread staying wide? Who benefits from convergence? Are hedge funds, refiners, or sovereign wealth funds taking directional bets?
+- **The SPR release mechanism:** The 400 million barrel coordinated release — how does it physically enter the market? Does it close the spread? V1 said it's "psychological bridge, not physical solution" — is that correct? How does released SPR crude actually reach refineries?
+- **The refiner squeeze:** V1 mentioned refiners paying physical prices but hedging at lower futures prices, locking in losses. How long can refiners sustain this? Which refiners are most exposed? Could a major refiner face bankruptcy or shutdown?
+- **What would a "snap convergence" event look like?** If the spread closes violently (Goldman's $20-50 upward snap in futures), what happens to stocks, bonds, and inflation expectations simultaneously?
+
+**Predictive output needed:** A model for how and when the paper-physical spread resolves under three scenarios: (A) ceasefire holds and Hormuz gradually reopens, (B) ceasefire collapses and disruption continues, (C) exogenous shock (Iranian mine deployment, tanker attack, infrastructure sabotage).
+
+---
+
+## SECTION 8: POLYMARKET AS AN INTELLIGENCE TOOL — Pattern Detection
+
+V1 documented the Harvard study ($143 million in anomalous profits, 210,718 suspicious wallet-market pairs, 69.9% win rate). The question now is whether Polymarket's suspicious trading patterns can be used PREDICTIVELY — as a leading indicator for upcoming events.
+
+Research and compile:
+- **The Harvard/Columbia study methodology:** What specific blockchain analysis techniques did they use to identify suspicious wallets? Can these techniques be applied in real-time to detect new suspicious activity?
+- **The three known insider trading clusters:** (1) Maduro capture — timing, wallet details, profit amounts, (2) Iran war start — timing, wallet details, the $550K profit account, (3) Ceasefire announcement — 50 new accounts, timing patterns. For each: how far in advance of the public announcement did the suspicious trades begin? (This lag time is the predictive window)
+- **The $760 million oil futures trade** 15 minutes before Trump's Truth Social post about pausing strikes on March 23 — what exchange? What specific contracts? Is this being investigated? By whom?
+- **Current active Polymarket markets on Iran:** What are the current odds for key questions? Ceasefire extension? Permanent deal by various dates? Regime fall? Nuclear deal? Iranian regime fall by June 30? Kharg Island seizure? What's the total volume on each?
+- **Can sudden volume/price spikes on Polymarket Iran markets be monitored in real-time?** What tools exist? Dune dashboards? What API access is available? Could a monitoring system be set up to alert when suspicious patterns emerge — which would function as a 1-4 hour early warning for major announcements?
+- **The legal landscape:** What are the specific pending bills in Congress? Moore's bill, Torres's CFTC letter, Blumenthal's letter to Polymarket — what enforcement mechanisms could actually be deployed? Timeline for any regulatory action?
+
+**Predictive output needed:** A framework for using Polymarket trading patterns as a 1-4 hour leading indicator for geopolitical events. What specific signals (new wallet clusters, sudden volume spikes, odds shifts exceeding X% in Y minutes) would indicate insider positioning ahead of an announcement?
+
+---
+
+## SECTION 9: EUROPEAN MILITARY DEPLOYMENTS AND THEIR CONSTRAINTS ON US ACTION
+
+V1 listed European positions but didn't analyze how European military deployments change US freedom of action.
+
+Research and compile:
+- **France's Charles de Gaulle carrier group:** Full order of battle — which frigates, which amphibious ships, aircraft complement, submarine escort. What are their rules of engagement? "Purely defensive escort" — does that mean they would fire on Iranian forces attacking escorted vessels? What about US-flagged vessels?
+- **Could French/European escorts create a "safe corridor" through Hormuz independent of the US blockade?** If France escorts commercial shipping while the US maintains a blockade, what happens when those missions conflict? Has there been any US-French military coordination or friction?
+- **Italy's defense cooperation suspension with Israel:** What specifically was suspended? Arms deliveries? Intelligence sharing? Joint exercises? What's the economic value? How does Netanyahu's government respond?
+- **Spain's base access denial:** Which bases? What US operations used them? How does this affect US logistics for Iran operations?
+- **Germany's positioning:** "Most sympathetic to US objectives" — what does that mean operationally? Has Germany provided any military support? Intelligence? Diplomatic cover? Or just words?
+- **NATO's Article 5 non-invocation:** Iranian missile debris fell in Turkey and drone strikes occurred near Cyprus. Why exactly did Rutte rule out Article 5? What was Turkey's reaction? Does Turkey's position on Article 5 affect its broader relationship with Iran?
+- **The Pope Leo XIV factor:** What is the Vatican's diplomatic network actually doing? Is the Vatican involved in backchannel communications? Historical precedent for Vatican mediation in conflicts?
+
+**Predictive output needed:** An assessment of whether European military deployments could evolve into a de facto challenge to the US blockade, creating a split in Western alliance management of Hormuz. What would trigger that escalation?
+
+---
+
+## SECTION 10: TRUMP'S DECISION-MAKING PATTERNS — Behavioral Predictive Model
+
+This is the section that goes beyond structural analysis into behavioral prediction. No previous research has attempted this systematically.
+
+Research and compile:
+- **Trump's Truth Social posting patterns during the Iran war:** Compile a timeline of every Iran-related post from Feb 28 through today. For each: timestamp, content summary, market reaction within 1 hour. Can we identify patterns in timing (time of day, day of week), emotional tone preceding escalation vs. de-escalation, and correlation with specific advisors being present?
+- **The "72-hour threat decay" pattern:** We've observed that Trump's threats (e.g., "a whole civilization will die tonight") tend to not be executed and are replaced by new framings within 72 hours. Compile every specific threat Trump made during this conflict with its timestamp and whether/when it was executed. What's the actual execution rate? What distinguishes threats that were executed from those that weren't?
+- **Trump's late-night posting as operational indicator:** Is there a pattern where Trump goes silent 12-24 hours before a major military operation? Compile the posting timeline around Feb 28 (war start), March 23 (strike pause), April 7 (ceasefire), April 13 (blockade). Was there a silence period before each?
+- **Advisor proximity correlation:** When Kushner is visibly involved (photos, travel), does policy shift toward deal-making? When Bolton-aligned figures are prominent, does policy shift toward escalation? Track advisor visibility against policy direction changes.
+- **The "rally" pattern:** Trump has scheduled multiple rallies during the war. Does his rhetoric shift in the 48 hours around rallies? Does he use rallies to telegraph upcoming actions?
+- **Market sensitivity to Trump posts:** Which specific types of posts move markets most? Threats? Deal announcements? Personal attacks on adversaries? Policy specifics? Can we rank post types by average market impact?
+
+**Predictive output needed:** A behavioral model that identifies which observable Trump behaviors (posting patterns, silence periods, advisor proximity, rally scheduling) have historically preceded specific policy actions (strikes, ceasefires, deal announcements, escalations), with enough specificity to function as a 12-48 hour early warning system.
+
+---
+
+## FORMATTING REQUIREMENTS
+
+Each section should be 800-1500 words. Total report should be 8,000-15,000 words.
+
+For each section, end with:
+1. **KEY FINDINGS** — 3-5 bullet points of the most important discoveries
+2. **PREDICTIVE IMPLICATIONS** — What this means for what happens next
+3. **WATCH INDICATORS** — Specific observable data points to monitor
+4. **CONFIDENCE LEVEL** — How reliable are the sources?
+
+**CRITICAL INSTRUCTION:** This research is for predictive modeling, not academic review. Every fact should be tied to a "so what" — how does knowing this help anticipate what happens in the next 30 days? If a fact doesn't have predictive value, don't include it. If you can't find solid sourcing for a sub-question, say so explicitly rather than speculating — we need to know where our blind spots remain.
+
+---
+
+*GEOPOLITICA Research Protocol V2.0 — April 15, 2026*
+*Designed for 10-subagent parallel execution architecture*
