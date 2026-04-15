@@ -1,0 +1,18 @@
+# Geopolitical conflict escalation analysisResearch plan createdThis is an extremely comprehensive and complex research task covering 8 major sections with numerous subsections about geopolitical analysis related to a US-Iran conflict scenario. Let me break this down and plan my approach.
+This is clearly a breadth-first query with enormous scope. I need to be strategic about how I divide this across subagents (max 20). Let me group related sections together to maximize coverage while staying within limits.
+Let me plan the subagent allocation:
+
+Section 1A+1C: US and Israeli Military Options - One subagent for US military/quasi-military options and Israeli options
+Section 1B: Iranian Options - One subagent for Iran's available options
+Section 2A+2B: Historical Pattern Matching - Blockades and Wars - One subagent
+Section 2C+7B: Oil Weapon and Inflation Transmission - One subagent covering oil deployments and economic spillovers
+Section 3: Financial Warfare Dimension - One subagent for all three subsections
+Section 4A: US Military Readiness - One subagent
+Section 4B+4C: Iranian and Israeli Military Sustainability - One subagent
+Section 5A: Iranian Internal Politics - One subagent
+Section 5B+5C: US Domestic Politics and Netanyahu - One subagent
+Continuing to allocate the remaining sections across available subagents to cover escalation dynamics, regional state responses, and global economic impacts
+
+. I'm reconsidering whether 15 subagents is necessary or if I can consolidate further by grouping related geopolitical and economic scenarios together. Let me try a more aggressive consolidation starting with the core decision-makers and their constraints, then layering in regional and global consequences. I'm consolidating these into a more streamlined framework—grouping military options by actor, combining related economic factors, and organizing the geopolitical dynamics more efficiently to avoid redundancy across the subagents. I've consolidated the topics down to 11 subagents by merging overlapping areas—combining Iranian and Israeli military considerations with their political contexts, grouping alliance dynamics across regions, and bundling the scenario deep dives together. This keeps everything within scope while maintaining clear separation between distinct analytical threads.
+Now I'm refining this further to land at exactly 12 subagents for better coverage. I'm keeping the core structure but splitting out a few areas that deserve their own focus—separating US domestic politics from Iranian internal dynamics, and making sure alliance moves and third-party actors get adequate attention without getting lost in broader categories.
+With 12 independent subagents, I can run them all in parallel and then synthesize the outputs. Let me start drafting the prompts for each one carefully.
