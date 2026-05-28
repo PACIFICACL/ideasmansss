@@ -1,79 +1,323 @@
-# Truth Project — Research Prompt v5.0
-## Non-English sources ONLY. Primary texts in original languages. Flag null results.
-## Focus: Serpent-beings, previous Earth species, soul uniqueness, Watcher eschatology
+# Ibadi tanzīh, Jābir's lost archive, and the buried religion of Magan
+
+**Bottom line up front.** Six lines of inquiry into Ibadi Islam and Omani religious history converge on a single structural finding: **the Ibadi tradition systematically excludes the anthropomorphic divine-attribute hadith corpus of the Sunni Ṣaḥīḥayn while retaining a literal, embodied (jism laṭīf) cosmology of jinn** — meaning tanzīh in Ibadi thought is a *creator-doctrine*, not a generalized demythologizing hermeneutic. The founding archive of the tradition (the Diwan of Jābir b. Zayd) was destroyed by an Ibadi *insider* (Naffāth al-Nafūsī) in factional revolt against the Rustamid Imamate, and what survives in the rasāʾil is conspicuously empty of cosmology, rūḥ, and jinn material. Atfiyyash explicitly reads Iblīs's refusal through species-ontology (jund Iblīs min al-jinn), supplying direct textual warrant for the "species hardware" frame. Pre-Islamic Oman shows a robust Iron-Age serpent cult and Sasanian military overlay but no surviving fire-temple — and Islam arrived simultaneously as religious conversion and anti-Persian liberation. On the quantitative comparison of the Musnad with the Sunni Ṣiḥāḥ, **no published concordance exists** — a methodologically important null. Below, each question is treated in full, with named-edition citations, Arabic where retrievable, confidence ratings, explicit nulls, and project-theme cross-references.
 
 ---
 
-## BLOCK 1: SERPENT/DRAGON CIVILIZATIONS IN ASIAN PRIMARY TEXTS (Chinese, Japanese, Korean, Vietnamese, Thai, Khmer)
+## Q9 — Musnad al-Rabīʿ b. Ḥabīb: the anti-anthropomorphism corpus
 
-**Q1.** Chinese (Classical) — The Lóng (龍) tradition in Shan Hai Jing, Huainanzi, Shuowen Jiezi: are dragons described as a SPECIES with civilization, cities, governance? What are the Dragon Kings (龍王) — rulers of underwater kingdoms with courts, armies, treasure? Do they predate humanity in the Chinese cosmological timeline? Do they interbreed with humans — any dynasty or hero with dragon parentage?
+### Structural framing (confirmed)
 
-**Q2.** Chinese — Fu Xi and Nüwa depicted with serpentine lower bodies in Han Dynasty art. Shan Hai Jing: how many serpent-bodied or serpent-associated beings are catalogued? Are they described as a population/species or individual anomalies? What is their relationship to human civilization — teachers, rulers, predecessors?
+The standard recension is *al-Jāmiʿ al-Ṣaḥīḥ — Musnad al-Imām al-Rabīʿ b. Ḥabīb*, arranged by Abū Yaʿqūb Yūsuf b. Ibrāhīm al-Wārijlānī (d. 570/1174). It contains roughly **1,005 reports** in four parts: Parts I–II (~742 marfūʿ muttaṣil via al-Rabīʿ ← Abū ʿUbayda Muslim b. Abī Karīma ← Jābir b. Zayd ← Companion ← Prophet); **Part III**, titled *Āthār iḥtajja bihā al-Rabīʿ ʿalā mukhālifīhi* (~140 athār — the polemical-creedal section, including the tawḥīd cluster); Part IV (~123 reports of Maḥbūb b. al-Ruḥayl ← al-Rabīʿ, Aflaḥ b. ʿAbd al-Wahhāb ← Abū Ghānim al-Khurāsānī, plus marāsīl Jābir). Editions of reference: Dār al-Ḥikma / Maktabat al-Istiqāma (Beirut, 1415/1995, ed. Muḥammad Idrīs and ʿĀshūr b. Yūsuf); critical edition Mansouri/Drissi/Mizouri (Oman, 2018); Sharḥ al-Sālimī in 3 volumes (Muscat, 1993). **Confidence: VH.**
 
-**Q3.** Japanese — Ryūjin/Watatsumi (海神) and the Dragon Palace (龍宮城). Kojiki and Nihon Shoki: Toyotama-hime (dragon king's daughter) marries into the imperial line. What does the original text say about her TRUE FORM? How does the imperial dynasty claim biological descent from dragon-beings? Are there other Japanese traditions of serpent/dragon civilization predating humans?
+### (a) Tawḥīd section — chapter list and contents
 
-**Q4.** Korean — Yong (용/龍) traditions in Korean-language sources beyond the Samguk Yusa. The Imugi (이무기) — serpent that must wait 1000 years to become a dragon. Dragon King of the East Sea. Any Korean text describing dragon-beings as a pre-human or parallel intelligent species? What do Korean shamanic (무속/Musok) traditions say about serpent spirits?
+**Evidence (VH for chapter titles, retrieved from ketabonline.com TOC of the Dār al-Ḥikma edn., and usul.ai for Part-I verbatim).** The tawḥīd cluster sits in Part III. Verified bab titles include: bab 158 *on what is narrated from ʿAlī b. Abī Ṭālib on exalting Allāh and negating likeness (tashbīh) to Him*; bab 162 *Ibn ʿAbbās on tanzīh*; bab 163 *the story of Nāfiʿ b. al-Azraq with Ibn ʿAbbās*; bab 164 *on his (the Prophet's) saying: "Khalaqa Llāhu Ādama ʿalā ṣūratihi"*; bab 165 *ʿUmar and Ibn Masʿūd on tanzīh al-Bārī*; bab 166 *Ibn ʿAbbās on Q 75:22–23 "wujūhun yawmaʾidhin nāḍira ilā rabbihā nāẓira"*; bab 167 *Ibn ʿAbbās again on al-naẓar*.
 
-**Q5.** Southeast Asian — Nāga traditions in Thai (พญานาค/Phaya Nak), Khmer (នាគ/Neak), Lao, and Vietnamese sources. The Mekong Nāga: is this the same being as the Sanskrit Nāga under a different name, or an independent tradition? Khmer foundation myth: Kaundinya marries Nāga princess Soma — the ENTIRE Khmer civilization claims Nāga descent. What do Khmer-language inscriptions say about this?
+A retrieved fragment from bab 164 (vol. 1, p. 318 of the Dār al-Ḥikma edn.) preserves Ibn ʿAbbās's polemical dialogue with the Azraqite Nāfiʿ:
 
----
+> **«... وهو بكل أينٍ — يعني: بكل مكان. قال: فسكت ابنُ الأزرق. قال ابن عباس: لا تمضي الليالي والأيام حتى يتفقَّه قومٌ في الشرائع وهم عن توحيد الله غافلون، قومٌ يصفون ربَّهم بالبشر ...»**
+> *"'…and He is in every "where" — meaning in every place.' Ibn al-Azraq fell silent. Ibn ʿAbbās said: 'The nights and days shall not pass until a people become learned in the legal sciences while heedless of the tawḥīd of Allāh — a people who describe their Lord in terms of a human being (bashar)…'"*
 
-## BLOCK 2: SERPENT/DRAGON TRADITIONS OUTSIDE ASIA (Mesoamerican, Aboriginal, West African, European)
+The hermeneutical maneuver is decisive: the title of bab 164 quotes the contested Sunni hadith *"khalaqa Llāhu Ādama ʿalā ṣūratihi"*, but the *content* refers the pronoun back to Adam (not God) and pre-empts the anthropomorphic reading using Ibn ʿAbbās material.
 
-**Q6.** Nahuatl/Maya — Quetzalcoatl (Nahuatl: feathered serpent) and Kukulkan (K'iche' Maya). Primary codex sources (Florentine Codex, Popol Vuh, Dresden Codex): is the feathered serpent a being, a title, or a species? Does it arrive from elsewhere? Does it predate humanity? What does it TEACH and when does it LEAVE? Connection to underground/underwater realms?
+Already in Part I, bab 4 (*al-ʿilm wa-ṭalabuhu*), ḥadīth #28, the Musnad embeds a programmatic anti-anthropomorphism Prophetic statement (verbatim retrieved from usul.ai):
 
-**Q7.** Aboriginal Australian — Rainbow Serpent traditions in Aboriginal languages (not English anthropological summaries). What do the oldest recorded oral traditions say about the Rainbow Serpent's role in creation? Is it described as an ongoing presence or a departed creator? Does it live underground/underwater? Any description of it as intelligent, communicative, or civilized rather than purely elemental?
+> **«... ثم قام إلى الثالثة فوجدهم يذكرون توحيد الله عز وجل ونفي الأشباه والأمثال عنه، فجلس إليهم كثيراً، ثم قال: "بهذا أمرني ربي". قال جابر: لأن التوحيد معرفة الله عز وجل ومن لا يعرف توحيد الله فليس بمؤمن.»**
+> *"…Then he came to the third [circle] and found them mentioning the tawḥīd of Allāh and negating from Him resemblances and likenesses (nafy al-ashbāh wa-l-amthāl) — he sat with them at length, then said: 'With this my Lord has commanded me.' Jābir said: 'Because tawḥīd is the (true) knowledge of Allāh, and whoever does not know the tawḥīd of Allāh is not a believer.'"*
 
-**Q8.** West African — Damballa/Dan (Vodou/Fon tradition) in Fon language sources. Mami Wata across West and Central African traditions. Ninki Nanka (Mandinka). Are these serpent-beings described as a species or civilization? Do they predate humanity? Do they have underwater/underground kingdoms? Any tradition of interbreeding with humans?
+**Analysis.** The Musnad does not contain a self-standing *Kitāb al-Tawḥīd* parallel to Bukhārī's book 97. Tawḥīd material is bilayered: (i) scattered foundational reports in Part I (e.g. ḥ. 28; ḥ. 61 with ʿĀʾisha denying that Muḥammad saw his Lord, *man zaʿama anna Muḥammadan raʾā rabbahu fa-qad aʿẓama ʿalā Allāh al-firya*); (ii) the systematic anti-anthropomorphism cluster in babs 158–167+ of Part III, built almost entirely from athār of ʿAlī, ʿUmar, Ibn Masʿūd, and especially Ibn ʿAbbās — and notably anchoring Ibadi tanzīh in Ibn ʿAbbās's polemic against the *Azāriqa* Khārijites (a different deviant sect), which doubles as Ibadi self-differentiation. **Confidence: VH** for chapter structure and ḥ. 28; **H** for content of babs 162–167 (verbatim of every individual hadith therein not retrieved).
 
-**Q9.** European — Lindworm/dragon traditions in Norse (Eddas), Celtic (Mabinogion), Slavic (zmei/zmaj), and Greek (Typhon, Python, Ladon) PRIMARY TEXTS. Fáfnir: originally a DWARF who transforms into a dragon through greed — is species-change through corruption a broader pattern? Do any European texts describe dragons as an intelligent civilization rather than individual monsters?
+**Null per source.** Verbatim Arabic of all individual hadith in babs 158–185 was not retrieved; shamela.ws did not yield direct page-level access; sunnah.com does not host the Musnad.
 
----
+### (b) Sifat hadith in the Musnad but not in Bukhārī/Muslim
 
-## BLOCK 3: SEQUENTIAL INTELLIGENT SPECIES ON EARTH (Arabic, Sanskrit, Chinese, Mesoamerican)
+The clearest unique-to-Ibadi tawḥīd text is **ḥ. 28** quoted above: the explicit Prophetic endorsement of *nafy al-ashbāh wa-l-amthāl* as the divinely-commanded core of the religion. No equivalent matn exists in the Ṣaḥīḥayn; the closest Sunni parallels report knowledge-circles but lack the anti-anthropomorphism clause. The **bab-164 Ibn ʿAbbās/Ibn al-Azraq dialogue** including *"qawmun yaṣifūna rabbahum bi-l-bashar"* ("a people who describe their Lord in terms of a human being") is likewise absent from Bukhārī and Muslim in this form. **Babs 162, 165, 166, 167** consist of Companion *athār* on tanzīh — a category structurally underrepresented in the Ṣaḥīḥayn's tawḥīd books, which are dominated by *marfūʿ* Prophetic affirmations of divine attributes. **Confidence: H** (verbatim of every athar not retrieved; structural-arrangement evidence robust).
 
-**Q10.** Arabic — Al-ḥinn wa-l-binn and al-nasnās: what do Arabic sources (al-Qazwīnī, al-Damīrī Ḥayāt al-Ḥayawān, Ṭabarī) actually say about these pre-Jinn Earth inhabitants? Were they a civilization? How were they replaced? How many LAYERS of intelligent species does the Arabic tradition describe before humans?
+### (c) Sifat hadith in Bukhārī/Muslim but absent from the Musnad
 
-**Q11.** Sanskrit — Beyond Nāgas: the Asuras, Daityas, Dānavas, Rākṣasas, Yakṣas, Gandharvas, Kinnaras — are any of these described as having inhabited Earth BEFORE Manu's humanity? Is there a specific chronological sequence of which species ruled Earth when? Does any Purāṇic text give a timeline of species-succession on Earth?
+Based on the complete retrieved chapter index, the Musnad contains **no bab** corresponding to any of the major Sunni *ṣifāt khabariyya* hadith:
 
-**Q12.** Chinese — The San Huang Wu Di (三皇五帝) "Three Sovereigns and Five Emperors" period. Fu Xi, Nüwa, Shennong — are these described as HUMAN or as a different species who ruled before humans? What does Sima Qian's Shiji say about the pre-human or proto-human rulers? Any Chinese tradition of Earth being inhabited by non-human intelligence before the current human civilization?
+| Sunni hadith | Bukhārī/Muslim citation | Present in al-Rabīʿ |
+|---|---|---|
+| Ḥadīth al-nuzūl (God descends to the lowest heaven) | Bukh. 1145; Muslim 758 | **Absent.** The Musnad encourages duʿāʾ in the last third of the night without the descent clause. |
+| Ḥadīth al-ruʾya (believers see God like the full moon) | Bukh. 554, 4851, 7434–36; Muslim 633 | **Absent in marfūʿ form.** Replaced by Ibn ʿAbbās tafsīr of Q 75:23 (babs 166–167) and ʿĀʾisha's denial in ḥ. 61. |
+| Ḥadīth al-sāq (God uncovers His shin) | Bukh. 4919; Muslim 183 | **Absent.** |
+| Ḥadīth al-qadam (God's foot in Jahannam) | Bukh. 4848, 7384; Muslim 2848 | **Absent.** |
+| Ḥadīth al-ḍaḥik (God laughs) | Bukh. 2826; Muslim 1890 | **Absent.** |
+| *Khalaqa Llāhu Ādama ʿalā ṣūratihi* read anthropomorphically | Bukh. 6227; Muslim 2841 | **Wording present** (bab 164 title) **but reinterpreted via Ibn ʿAbbās athār** to refer the pronoun to Adam. |
 
-**Q13.** Mesoamerican — Popol Vuh describes THREE FAILED CREATION ATTEMPTS before current humanity (mud people, wood people, then maize people). What were the "wood people" — were they a different SPECIES that was destroyed? The Aztec Five Suns: each sun/age has different inhabitants. Are previous ages described as having different intelligent species, not just different humans?
+**Confidence: H** — this is strong negative evidence based on the complete chapter index, but not exhaustive verbatim verification.
 
----
+### (d) Analysis of divergence as institutional/sectarian selection
 
-## BLOCK 4: THE SOUL AS UNIQUELY HUMAN — WHAT OTHER BEINGS DON'T HAVE (Hebrew, Arabic, Sanskrit, Tibetan)
+The pattern is coherent and editorially purposive. (1) **Positive inclusion**: programmatic Prophetic endorsement of *nafy al-ashbāh wa-l-amthāl* placed early (ḥ. 28); Companion-athār cluster of tanzīh anchored to non-anthropomorphist authorities (ʿAlī, ʿUmar, Ibn Masʿūd, Ibn ʿAbbās). (2) **Negative exclusion**: no chapter, anywhere, collects the ṣifāt khabariyya hadith that fill Bukhārī's *Kitāb al-Tawḥīd*. (3) **Hermeneutic pre-emption**: where a contested matn is included (*ṣūratihi*), surrounding athār immediately neutralize the anthropomorphic reading. (4) **The Q 75:23 problem**: Sunni tradition reads this verse + Jarīr's ruʾya hadith as proof of beatific vision; the Musnad treats Q 75:23 via Ibn ʿAbbās's *tafsīr* (intizār, "awaiting reward") only, with no Prophetic ruʾya proof. **The Musnad is the hadith engine of Ibadi kalām**, supplying textual cover for what al-Sālimī's *Mashāriq Anwār al-ʿUqūl* and al-Janāwunī's *Waḍʿ* later elaborate as *tanzīh muṭlaq*.
 
-**Q14.** Hebrew/Aramaic — Do the Talmud and Kabbalah describe angels, Watchers, shedim, or other non-human beings as having SOULS in the same sense humans do? What is the specific difference between human neshamah and angelic existence? Does any text say the Watchers LACK something humans have? What makes human souls unique in the Lurianic framework — is it the connection to Adam's composite soul, or something else?
-
-**Q15.** Arabic — Do jinn have SOULS (rūḥ/nafs) in the Quranic framework? They have free will (Q 72:11 — "among us are righteous and among us are other than that"), they die (Q 55:26-27), they face judgment. But do they carry the divine breath (nafakha) that Adam received (Q 15:29 — "I breathed into him of My spirit")? Is the nafakha unique to humans? What do Arabic commentaries say about what jinn DON'T have that humans DO?
-
-**Q16.** Sanskrit — The ātman doctrine: do Nāgas, Asuras, Devas, Gandharvas, and other non-human beings have ātman? Can they achieve mokṣa? The Bhagavad Gītā says all beings are ātman — but are there LEVELS or TYPES of soul? Does any text distinguish human soul-potential from non-human soul-potential? What makes being born human precious in the Hindu framework?
-
-**Q17.** Tibetan — "Precious human rebirth" (dal 'byor) doctrine. Why is human birth specifically precious — what do gods, animals, hungry ghosts, and hell-beings LACK that humans have? Is it the capacity for RECOGNITION (pratyabhijñā-equivalent)? Do the texts say that even devas in heaven can't achieve liberation — only humans can? What specifically about human existence enables enlightenment?
-
----
-
-## BLOCK 5: WATCHER/NON-HUMAN ESCHATOLOGY — WHAT DO THEY BELIEVE? (Hebrew, Arabic, Sanskrit, Avestan)
-
-**Q18.** Hebrew/Aramaic — Do any Talmudic, Midrashic, or Kabbalistic texts describe what the shedim, fallen angels, or Sitra Achra BELIEVE will happen at the end of days? Do they have their own prophecies or eschatological fears? Does any text describe Samael or the qelippot as AFRAID of tikkun? What do they think happens to them if the Messiah comes?
-
-**Q19.** Arabic — What does Iblis BELIEVE will happen? The Quran records his dialogue with God (Q 7:14-17 — "Grant me respite until the Day they are resurrected"). He KNOWS there's a Day of Judgment. He asked for TIME, not exemption. What do Arabic texts say about what Iblis expects to happen on that Day? Does he have a PLAN beyond "I will come at them from before and behind"? Does any text describe Iblis as afraid?
-
-**Q20.** Sanskrit — The Asuras and Rākṣasas KNOW about the yugas and the avatars. Rāvana knew who Rāma was. What do the Asura and Rākṣasa traditions say about their OWN eschatological expectations? Do they have prophecies about Kalki? Do they prepare for the end of the cycle? What do they believe happens to them when Viṣṇu's avatar appears?
-
-**Q21.** Avestan/Pahlavi — What do the daēvas and Ahriman BELIEVE about Frashokereti? The Bundahishn describes the final renovation — does it describe Ahriman's AWARENESS of his coming defeat? Does Ahriman have a counter-strategy, or is he portrayed as blindly opposing a fate he can see coming?
+**Cross-reference to project theme.** Three flags. *(i)* Three independent early streams — Ibadi, Imāmī (al-Kāfī's *Kitāb al-Tawḥīd*), and Muʿtazilī — converge on a transcendent picture, while the anthropomorphic corpus is largely confined to the proto-Sunnī/Ahl al-Ḥadīth stream. *(ii)* The Ibadi short isnād (Basran 1st–2nd c. AH) preserves a radically transcendent picture, consistent with — but not proving — the hypothesis that anthropomorphic strata accreted later. *(iii)* **Critical caveat**: Sunni polemicists (Albānī, Mashhūr Ḥasan) argue the Musnad's surviving form is a 6th/12th-c. al-Wārijlānī compilation; if so, Ibadi "absence" reflects medieval Ibadi kalām filtration, not 2nd-c. purity. The directional editorial pressure is documentable; its terminus a quo is not. **Confidence: H** descriptive; **L** for strongest hypothesis form.
 
 ---
 
-## BLOCK 6: SHAMANIC PERCEPTION AND WATCHER-LEVEL REALITY (Multiple traditions)
+## Q10 — Jābir ibn Zayd: surviving fragments and the Naffāth burning
 
-**Q22.** Siberian/Turkic — Shamanic traditions in original languages (Yakut, Tuvan, Mongolian). The shaman's journey to upper/lower worlds: what do they DESCRIBE seeing when they enter trance? Are there consistent descriptions of non-human intelligent beings encountered during shamanic flight? Do shamans report seeing the SAME entities as those described in the Watcher/angel traditions?
+### (a) The Diwan and its destruction
 
-**Q23.** Amazonian — Ayahuasca traditions in Quechua/indigenous languages. What do ayahuasqueros describe seeing? Serpent-beings, geometric entities, teaching spirits — are these described as the SAME beings who created or shaped humanity? Do they match descriptions from other traditions (Nāgas, Watchers, Apkallu)?
+**Evidence.** The Ibadi tradition unanimously reports that Jābir composed a vast compendium — *Dīwān Jābir* / *al-Mudawwana al-Kubrā* — variously described as "seven loads" (سبعة أحمال) or "ten camel-loads" of material covering tafsīr, hadith, ʿaqīda, and fiqh. **The Diwan did not survive**. Two destruction narratives compete:
 
-**Q24.** Arabic — The kāhin (pre-Islamic Arabian seer/diviner). How did kāhins access information? What entities did they communicate with? Were the kāhin's jinn informants the SAME beings later described as angels/demons in Islamic theology? What did the kāhins see that later prophets also described?
+1. **The Mongol/Fatimid theory** (favored in modern popular Omani accounts): Basran copy lost in the 1258 sack of Baghdad; Maghribi copy lost under the Fatimids.
+
+2. **The Naffāth burning** (the internal Ibadi narrative, transmitted through al-Wisyānī's *Siyar* citing Yakhlaftan b. Ayyūb al-Nafūsī, then repeated in al-Darjīnī's *Ṭabaqāt al-Mashāyikh* and al-Shammākhī's *Kitāb al-Siyar*). The custody chain: Jābir → Abū ʿUbayda Muslim b. Abī Karīma (d. ~145 AH) → Abū Sufyān Maḥbūb b. al-Ruḥayl → his son ʿAbd Allāh b. Maḥbūb, *"and it was taken from them at Mecca"* (وأُخذ عنهم بمكة). Subsequently the copy passed to **Naffāth b. Naṣr al-Nafūsī**, a North African Ibadi dissident opposed to the Rustamid imamate of Tāhart (late 2nd / early 3rd c. AH), who **destroyed it** (أتلفها).
+
+**Crucial identification.** The perpetrator is **not al-Ḥajjāj b. Yūsuf**. Al-Ḥajjāj imprisoned and exiled Jābir but did not burn the Diwan. The destroyer was an *insider* — a doctrinal opponent of the Rustamid mainstream from within the Ibadi network itself.
+
+**Analysis.** The Naffāth narrative is preserved exclusively through internal Ibadi tabaqāt; the loss is attributed to factional politics among Ibadis. This is theologically and historically loaded: the perpetrator knew the contents intimately and considered them a political/doctrinal threat. The "Mongol/Fatimid loss" narrative is later, simpler, and may be apologetic camouflage.
+
+**Confidence: H** for Naffāth attribution; **M** for retrievable exact-page citations in al-Shammākhī (the Maṭbaʿa al-Bārūniyya 1301/1883 edition exists on archive.org as unpaginated OCR).
+
+**Null.** No verbatim Arabic of the Naffāth episode retrieved from al-Darjīnī or al-Shammākhī at exact-page resolution; the Wisyānī chain quotation above is the closest. No fragment of the Diwan *as such* is securely identified; the "Kitāb al-Ṣalāt" and "Kitāb al-Nikāḥ" MSS at the Bārūniyya library, Jerba, are speculated by ʿAmr al-Nāmī to be Diwan-fragments but this is conjectural.
+
+**Cross-reference.** Directly bears on the project's "suppression = signal" hypothesis: an insider burning by a doctrinal opponent suggests the destroyed content was considered dangerous *to the dominant Ibadi reading*, not to outsiders.
+
+### (b) Surviving letters
+
+**Confirmed and published**: **Rasāʾil al-Imām Jābir b. Zayd al-Azdī (t. 93 AH)**, *ḍabṭ naṣṣihā*: Dr. ʿAmr b. Khalīfa al-Nāmī; review/preparation: Sulṭān b. Mubārak al-Shaybānī; Dār al-Daʿwa, Nālūt (Libya) / Mīzāb (Algeria), 1st ed. 1439/2018. Manuscript base: al-Bārūniyya library, al-Ḥishshān, Jerba, Tunisia (discovered by al-Nāmī, Jumādā al-Ūlā 1388 / Aug 1968), 232 pp., ~14 lines/page, Maghribi script likely 6th c. AH, first folio missing. Contains **17 letters** to named followers including Rāshid b. Khaytham, ʿUthmān b. Yasār, al-Ḥārith b. ʿAmr, Sālim b. Dhakwān, ʿAbd al-Malik b. al-Muhallab, Khabra bint Ḍamra. Formula: «من جابر بن زيد إلى ... سلام عليكم، فإني أحمد إليك الله ...».
+
+Two passages directly reveal the underground security protocols of the early Ibadi network. To ʿAbd al-Malik b. al-Muhallab: «اكتب إليّ بما كانت لك من حاجة في سر وثقة، فإنك قد علمت الذي نحن فيه وما نتخوف من الذي يطلب العلل علينا» — *"Write to me about whatever needs you have in secret and trust, for you know what we are in and what we fear from those who seek pretexts against us."* To al-Ḥārith b. ʿAmr: «واعلم أنك أصلحك الله بأرض أكره أن تذكر لي فيها اسما، فلا ترو شيئا مما كتبت إليك» — *"You are in a land in which I dislike to mention any name to you, so do not transmit anything I write to you."*
+
+A separate edition, ***Min Jawābāt al-Imām Jābir b. Zayd***, arranged by Shaykh Saʿīd b. Khalaf al-Khurūṣī (Oman), combines two riwāya-collections: Abū Ṣafra ʿAbd al-Malik b. Ṣafra ← al-Rabīʿ ← Ḍimām b. al-Sāʾib ← Jābir; and Ḥabīb b. Abī Ḥabīb ṣāḥib al-anmāṭ ← ʿAmr b. Haram ← Jābir. A famous **letter of Jābir to al-Zuhrī** rebuking him for joining the Umayyad court is cited by al-Wārijlānī in *al-Dalīl wa-l-Burhān* (verbatim not retrieved). A separate "Risāla to a Shīʿī man" listed in al-Barrādī's catalog **did not survive**.
+
+**Confidence: VH** on the Rasāʾil edition; **H** on the Jawābāt and Zuhrī letter.
+
+### (c) Jābir in the later Ibadi encyclopedias
+
+**Confirmed.** *Bayān al-Sharʿ* of Muḥammad b. Ibrāhīm al-Kindī (d. 508/1115), Muscat: Wizārat al-Turāth al-Qawmī wa-l-Thaqāfa, 1st printing 1404/1984, 30 (or in some catalogues 72) vols., *taḥqīq*: committee under Aḥmad b. Ḥamad al-Khalīlī, citing Jābir extensively (per Fahd al-Saʿdī's bibliographic study *al-Maṣādir Ghayr al-ʿUmāniyya fī Kitāb Bayān al-Sharʿ*); the *Muṣannaf* of Aḥmad b. ʿAbd Allāh al-Kindī (d. 557/1162), 41 vols.; the *Jāmiʿ Ibn Jaʿfar* of Abū Jābir Muḥammad b. Jaʿfar al-Izkawī (3rd c. AH), the earliest surviving Omani Ibadi fiqh compendium.
+
+A concrete preserved Jābir-opinion accessible cross-confessionally appears in *Muṣannaf ʿAbd al-Razzāq* #13591 (a Sunni source): «عن سفيان، عن عبَّاد، عن منصور، عن جابر بن زيد أبي الشعثاء قال: "هو ماؤك فأهرقه"» — Jābir's permissive ruling on istimnāʾ ("It is your water, so spill it"). Many other Jābir rulings (slaughter posture, hajj, inheritance, prayer) survive scattered through ʿAbd al-Razzāq, Ibn Abī Shayba, and Saʿīd b. Manṣūr; these are gathered in Khalfān al-Ṭīwānī's *Fatāwā al-Imām Jābir b. Zayd*. **Jābir's chronological ordering of Qurʾanic sūras** is preserved (e.g. Sūrat al-Aʿrāf as 39th, cited by Ibn ʿĀshūr in *al-Taḥrīr wa-l-Tanwīr*).
+
+**Confidence: M** for the encyclopedias themselves; **H** for transmission chains; **L** for retrieving discrete verbatim Jābir quotations *by exact volume/page* in Bayān al-Sharʿ or Muṣannaf al-Kindī in open digital sources.
+
+### (d) Creation, cosmology, soul, jinn — the conspicuous null
+
+**This is a strong null with project-thematic significance.** The 17 *Rasāʾil* and the *Jawābāt* are overwhelmingly fiqhī and akhlāqī. The complete chapter list of the Jawābāt covers ṭahāra; ḥayḍ; ṣalāt; janāʾiz; zakāt; ṣiyām; ḥajj; nadhr/aymān; dhakāt/aḍāḥī; nikāḥ; ṭalāq; waṣāyā; mamālīk/ʿitq; buyūʿ; mīrāth; firāsh/āniya/libās; ʿilm wa-ādāb; aḥkām wa-shahādāt. **There is no chapter on khalq, rūḥ, jinn, or cosmology.** No surviving Jābir tafsīr-fragment addresses the jinn-creation verses (Q 15:27, Q 55:15) or the nafkha verses (Q 15:29, Q 38:72, Q 32:9). A minor exception: Jābir transmits the chronological positioning of Sūrat al-Jinn after al-Aʿrāf, but this is meta-textual, not substantive.
+
+**Analysis.** Given (i) Jābir's direct discipleship under Ibn ʿAbbās (the great early authority on cosmology and demonology), (ii) the Ibadi tabaqāt's report that the lost Diwan contained "*ārāʾahu fī umūr al-ʿaqīda*", and (iii) the destroyer (Naffāth) being a doctrinal opponent, this absence is *structurally suggestive*: the destroyed material is precisely the cosmological/doctrinal corpus that does not appear in what survived. The surviving stream — the fiqh transmission through Abū ʿUbayda and al-Rabīʿ — was preserved because it was operationally needed by the underground community; the doctrinal/cosmological material was either factionally contested or transmitted orally and lost.
+
+**Confidence: H** for the null on the Rasāʾil/Jawābāt tables of contents; **M** for the broader claim across Bayān al-Sharʿ etc. (not exhaustively searched).
+
+**Cross-reference flags.** The *Naffāth* event is the cleanest case-study for the "suppression = signal" frame: an insider with custody of the Diwan destroyed it for doctrinal reasons. Jābir's reported meta-statement «إنا لله، يكتبون عني آراء وقد أرجع عنها غدا» ("they write down opinions from me which I may retract tomorrow") is itself a flag of doctrinal mutability in the early period. The Sunni biographical tradition (Bukhārī, Ibn Saʿd, Dhahabī) records a deathbed disavowal of the Ibadis attributed to Jābir — contested by Ibadis as forgery — but this is a parallel narrative-conflict worth noting.
 
 ---
 
-For each answer: original-language passage + translation, what text ACTUALLY says vs modern summaries, confidence level, null results where applicable.
+## Q11 — Atfiyyash on the creation of Adam (Q 2:30–39)
+
+### Methodological caveat
+
+**Significant retrieval failure.** The principal online hosts of *Himyān al-Zād ilā Dār al-Maʿād* and *Taysīr al-Tafsīr* — altafsir.com and greattafsirs.com (both Aal al-Bayt Institute) — returned bot-blocked responses on direct fetch attempts. The Internet Archive scan of *Himyān al-Zād* (haiamayan_azad_opt) exists in 20 part-volume PDFs but specific folio-text was not extracted. **Most of (a)–(f) below relies on snippet-level evidence and methodological inference. One direct verbatim retrieval was achieved: Atfiyyash on Q 17:64.** No Arabic has been fabricated. A user with a normal browser can recover verbatim text from `altafsir.com/Tafasir.asp?tMadhNo=6&tTafsirNo=49&tSoraNo=2&tAyahNo=30` (Himyān) and `tMadhNo=9&tTafsirNo=50` (Taysīr).
+
+**Editions confirmed to exist.** *Himyān al-Zād ilā Dār al-Maʿād*, Muḥammad b. Yūsuf Aṭfayyish (Qutb al-Aʾimma, d. 1332/1914), first printed Zanzibar c. 1350 AH; reprinted Muscat, Wizārat al-Turāth al-Qawmī wa-l-Thaqāfī (Oman); Internet Archive 20-part scan. *Taysīr al-Tafsīr*, Muscat, Wizārat al-Turāth, 1406/1986, 17 vols.; Internet Archive identifier `tiser_alTafser`.
+
+### (a) Full commentary on Q 2:30–39
+
+**Verbatim retrieval from this session: NULL.** From paratextual evidence (the alsaidia.com bibliographic entry and ASJP/cerist.dz study of Aṭfayyish's method in Sūrat al-Baqara as *anmūdhaj*), Aṭfayyish treats the Adam pericope at length with linguistic/grammatical analysis (iʿrāb of *idh*, *jāʿil*, *khalīfa*), citation and selective rebuttal of Zamakhsharī (*jār Allāh*) and Bayḍāwī (*al-qāḍī*), and inclusion of Isrāʾīliyyāt that he sometimes critiques. *Himyān al-Zād* vol. 2 covers Baqara 1–141; *Taysīr al-Tafsīr* vol. 1 covers Fātiḥa and early Baqara. **Confidence: L** verbatim; **M** methodological.
+
+### (b) "Innī jāʿilun fī al-arḍi khalīfah"
+
+Direct Atfiyyash verbatim: NULL. The Ibadi exegetical field within which he writes canvasses three classical options: *(i)* deputy/vicegerent of God enforcing His decrees, *(ii)* successor to prior earth-dwellers (jinn / Banū al-Jānn), *(iii)* a people succeeding one another generation by generation. Given Aṭfayyish's method (multiple wujūh with arbitrated preference) and his documented engagement with the Ibadi exegete al-Hawwārī (who preserves the Jinn-pre-Adamic strand), it is highly likely he presents both (i) and (ii) as compatible. **Confidence: L verbatim; M doctrinal inference.**
+
+### (c) "Wa-ʿallama Ādama al-asmāʾa kullahā"
+
+Direct Atfiyyash verbatim: NULL. The standard option-set is: names of *all things* (Ibn ʿAbbās); names of the *angels* (al-Rabīʿ in one report); names of his *descendants* (ʿAbd al-Raḥmān b. Zayd); names of *stars* (Ḥumayd al-Shāmī); the *divine names* (Sufi/esoteric reading, Ibn ʿArabī, al-Qushayrī). Given Atfiyyash's philological-Zamakhsharian register and his demonstrated distance from extreme bāṭinī readings, the predicted preference is the broad "essences and acts of things" (ذوات الأشياء وأفعالها). **Confidence: L verbatim; M doctrinal inference.**
+
+### (d) Nafkha / rūḥ (Q 15:29, 38:72, 32:9)
+
+Direct Atfiyyash verbatim at these verses: NULL. The Ibadi kalām framework — which Aṭfayyish embodies at its 19th-c. peak — overwhelmingly treats *min rūḥī* as **iḍāfat tashrīf** (possessive of honorific attribution), exactly parallel to *nāqat Allāh* and *bayt Allāh*. The rūḥ is *jism laṭīf makhlūq* (a created subtle body), honorifically ascribed to God, not an emanation of His essence. Predicted gloss: «أجريت فيه روحاً خلقتها وأضفتها إلى نفسي تشريفاً». This rules out any "spark of divine essence" reading while preserving nafkha as the unique act that ontologically distinguishes Adam from prior earth-dwellers and from angels — i.e., as the basis for being taught the asmāʾ and meriting prostration.
+
+**Cross-reference.** This is the configuration directly relevant to the project's "nafkha = distinguishing human capacity" frame. **Confidence: L verbatim; M doctrinal.**
+
+### (e) Iblīs's refusal — the project's key sub-question
+
+**Verbatim retrieved (the one direct hit).** Aṭfayyish, *Taysīr al-Tafsīr* on Q 17:64 *wa-stafziz man istaṭaʿta minhum bi-ṣawtika…* (greattafsirs.com mirror):
+
+> «ويجوز أن يراد منهم ومن الإنس، لعلم الله بأنه سيكون ذلك … ومعنى المشاركة في الأموال أن يحملهم على كسبها من الحرام … **وجند إبليس يومئذ من الجن**.»
+> *"And Iblīs's host at that time is from the jinn."*
+
+This is decisive: Aṭfayyish reads Iblīs's host — and by direct entailment Iblīs himself, given Q 18:50 *kāna mina al-jinn* — as **jinn, not fallen angels**. Combined with the standard Ibadi reading of Q 7:12 (*khalaqtanī min nār wa-khalaqtahu min ṭīn*) and the *istithnāʾ munqaṭiʿ* reading of Q 2:34 (the exception in *"fa-sajadū illā Iblīs"* is disconnected; Iblīs entered the prostration command only by association with the angels, not by species membership), Aṭfayyish falls into the camp that reads the refusal as **both** moral failure (*kibr*, *qiyās fāsid* — the classic "first to use analogy" trope) **and** as flowing from his species-distinct fiery jinn nature.
+
+**Cross-reference (strong hit).** Aṭfayyish supplies direct textual warrant for the project's "Iblīs as species hardware limitation" frame: jinn-nature is the operative ontological category, not merely the moral pride explanation. **Confidence: H** (verbatim partial) for the Q 17:64 quotation; **L** for verbatim retrieval at Q 2:34, 7:12, 18:50, 38:76 specifically.
+
+### (f) Pre-Adamic creation and the "shedding blood" objection
+
+Direct Aṭfayyish verbatim at Q 2:30b: NULL. The Jalālayn (which Aṭfayyish engages closely) explicitly identifies the pre-Adamic earth-dwellers as *banū al-Jānn*, driven by angels to "the islands and mountains" when they corrupted the earth. The Baghawī and Ṭabarī parallel traditions cite the Ḥasan al-Baṣrī / Ibn ʿAbbās / ʿAbd Allāh b. ʿAmr chains on jinn-2000-years-before-Adam and Iblīs leading the angelic punitive expedition. Aṭfayyish (i) is documented to engage Isrāʾīliyyāt (criticized for *kathrat al-iʿtimād ʿalā al-isrāʾīliyyāt* by some modern Ibadi critics), (ii) draws on al-Hawwārī who preserves these traditions, (iii) works in dialogue with Zamakhsharī/Bayḍāwī who report them. It is therefore highly likely that *Himyān al-Zād* at 2:30 transmits the jinn-pre-Adamic strand as one explanation for the angels' inference. The *Hinn/Binn* (الهن والبن) deeper-stratum motif (humanoid species before the jinn) is reported in Ibn al-Jawzī and Suyūṭī's *al-Ḥabāʾik* but **whether Aṭfayyish transmits this specific motif is NULL — unverified.**
+
+**Cross-reference.** The pre-Adamic intelligent species frame is methodologically endorsed at the level of the exegetical tradition Aṭfayyish inhabits; specific Aṭfayyish endorsement awaits direct verification. **Confidence: L verbatim; M methodological inference; L on Hinn/Binn extension.**
+
+---
+
+## Q12 — Ibadi position on jinn
+
+### (a) Nature of jinn — the *jism laṭīf* doctrine
+
+**Evidence.** The most precise verbatim retrieval comes from a published fatwa of the current Mufti of Oman, **Aḥmad b. Ḥamad al-Khalīlī**, transcribed in *al-Rūʾyā* (Oman daily, 28 May 2025):
+
+> «أجسامهم أجسام لطيفة، أي هم أقرب إلى الروحانيّة، فلذلك يتمكنون من الدخول. ومنهم من قال بعدم دخولهم لأنهم ولو كانت أجسامهم لطيفة، إلا أنهم أجسام، فلا يتلبس جسم بجسم.»
+> *"Their bodies are subtle bodies — that is, they are closer to the spiritual — and for that reason they are able to enter [human bodies]. But [other Ibadi scholars] say they cannot enter, because even if their bodies are subtle, they are still bodies, and one body does not inhere in another body."*
+
+Aṭfayyish on Q 17:64 (above) supplies the parallel position that Iblīs's host is "of the jinn" as a literal substantive category. Aṭfayyish on Q 72:6 reads the pre-Islamic jinn-human *istiʿādha* pact naturalistically — jinn have *rijāl* (males), can be invoked, can be feared.
+
+**Analysis.** The Ibadi position is emphatically a **spectrum / subtle body (*jism laṭīf*) ontology**, neither pure spirit nor crudely material. Al-Khalīlī's *ajsām laṭīfa aqrab ilā al-rūḥāniyya* is the consensus formula. This aligns with the mainstream Sunni reading of Q 55:15 (*mārij min nār*). Ibadi tafsīrs do *not* allegorize jinn into psychological forces; al-Khalīlī explicitly rejects Muḥammad ʿAbduh's allegorical reading (in his 2022 Jazeera interview). **Confidence: H.**
+
+**Null per source.** No verbatim Salimi passage on jinn-substance retrieved from *Mashāriq Anwār al-ʿUqūl* (Rukn 2, Bāb 4 — *al-samʿiyyāt*); no Warijlānī passage in *al-Dalīl wa-l-Burhān*; no Bayān al-Sharʿ passage retrieved.
+
+### (b) Sūrat al-Jinn (Q 72)
+
+Aṭfayyish's *Taysīr* on Q 72:1 reproduces the standard report-tradition (the jinn of Naṣībīn at Baṭn Nakhla, between Mecca and Ṭāʾif, while the Prophet recited al-Fajr) — narratively conservative. But on Q 72:3 (*taʿālā jaddu rabbinā*) he glosses: «**تنزه جلاله وعظمته عما نُسب إليه**» — *"His majesty and greatness are transcendent above what has been attributed to Him."* This is exegetically strategic: the jinn's own confession is used as Qurʾanic proof of divine *tanzīh* — the jinn, upon hearing the Qurʾan, immediately abandon anthropomorphism (*ṣāḥiba wa-walad*). On Q 72:6 Aṭfayyish polemically extends this against contemporary saint-veneration practices.
+
+**Analysis.** Ibadi tafsīr on Q 72 is narratively conservative but theologically loaded: the jinn function as witnesses to *muwaḥḥid* theology, supplying an a-fortiori argument against the Sunni/Ashʿarī affirmation of "literal" divine attributes. **Confidence: M–H** (snippet-only retrieval).
+
+### (c) Iblīs from the jinn — Q 18:50, Q 7:12, Q 2:34
+
+Aṭfayyish on Q 18:50 (greattafsirs.com snippet) adopts the **Iblīs-from-the-jinn** position categorically, reading the *istithnāʾ* in Q 2:34 as **munqaṭiʿ** (disconnected): «**كان من الجن... ولم يكن من الملائكة، ولكنه دخل في خطاب السجود لكونه معهم**» — *"He was from the jinn… and was not from the angels; but he entered into the command to prostrate because he was with them."* Q 7:12 (*khalaqtanī min nār*) is treated as Iblīs's self-incriminating boast — proof of jinn-nature, since jinn = *mārij min nār* (Q 55:15) and angels are *nūr* (per the ʿĀʾisha hadith in Muslim, accepted in Ibadism). Salimi's framework — that angels are *maʿṣūmūn* and cannot disobey — logically excludes Iblīs from the angelic species; verbatim Salimi text on this not retrieved.
+
+**Analysis.** The Ibadi position converges with Ḥasan al-Baṣrī and the Muʿtazila, against Ibn ʿAbbās's "*qabīla mina al-malāʾika tusammā al-jinn*" tradition. Iblīs is categorically jinn; his fire-origin confirms it; his disobedience is metaphysically possible *because* he is jinn (jinn have *ikhtiyār*; angels do not). **This is precisely the "species hardware" reading the project hypothesizes** — the *fāʾ* in *fa-fasaqa ʿan amri rabbihi* is read as causative: jinn-nature is the causal antecedent of the *fisq*. **Confidence: H.**
+
+### (d) Does tanzīh extend to jinn? — the analytically key sub-question
+
+**Evidence — Ibadi tanzīh for God (baseline)**: al-Sālimī, *Bahjat al-Anwār* (cited via omandaily.om): «هذا برهان استحالة المشابهة له تعالى المذكورة في قول المصنف "ليس له شبه..."» — *"This is the proof of the impossibility of any resemblance to Him, Most High, as in the author's statement 'He has no likeness…'"* Ibadi tanzīh for God is **maximalist**: no *jiha* (direction), no *makān* (place), no *jism* (body), no *ʿaraḍ* (accident); divine attribute texts are subjected to *taʾwīl* (not Ashʿarī *tafwīḍ-bi-lā-kayf*, not Ḥanbalī affirmation).
+
+**Evidence — treatment of jinn**: al-Khalīlī (al-Rūʾyā 2025): «**هذه القضيّة لا ننكر وقوعها، إلّا أن ذلك قد رُوِّج له ترويجًا عجيبًا عند الناس، وهذا الذي جعل الناس يتأثرون تأثرًا نفسيًا عجيبًا**» — *"We do not deny the occurrence of [jinn-possession], except that it has been promoted among people in a strange way, which has caused them to be affected psychologically in strange ways."* Jinn remain ontologically real, embodied (*jism laṭīf*), interactive — but their cultural amplification is regulated.
+
+**Analysis — the principal finding for this report.** **Ibadi tanzīh is asymmetrical.** It does not extend in the same form to jinn. For God: literalism rejected, body-language *taʾwīl*-ed, maximal tanzīh. For jinn: literalism largely retained — jinn are real, embodied (in *jism laṭīf* mode), made from *mārij min nār* (substantively), have *dhurriyya* (Q 18:50), have *rijāl* (Q 72:6), and can interact with humans. Aṭfayyish does not demythologize the *wafd Naṣībīn* narrative or the jinn-human *istiʿādha*. Al-Khalīlī explicitly rejects ʿAbduh's allegorical reading ("*shayāṭīn = malakāt al-sharr*"). **The asymmetry is principled, not accidental**: the driver of divine tanzīh is the *mukhālafa li-l-ḥawādith* principle (God is unlike contingent beings); jinn *are* contingent beings, so the principle does not engage. This is structurally identical to Muʿtazilī, Ashʿarī, and Māturīdī practice on this point — tanzīh is a divine-attribute doctrine, not a general allegorical hermeneutic.
+
+**Cross-reference — major project implication.** For the user's larger thesis ("anti-anthropomorphism as a diagnostic for demythologization"), **Ibadism is a negative case**: a maximally tanzīh tradition that does *not* demythologize jinn. The diagnostic does not generalize. Anti-anthropomorphism is specifically a *God-doctrine* and cannot be used as a proxy for a generalized naturalistic-cosmology commitment. The "break" the question anticipated is real and is doctrinally principled: it is the creator/creature boundary, not a hermeneutical inconsistency. **Confidence: H** on the asymmetry pattern; **VH** on al-Khalīlī's statements (verbatim from published source).
+
+### (e) Unique Ibadi traditions on jinn-human interaction
+
+The strongest distinctive marker is **not** a unique cosmology of jinn (the cosmology is shared with mainstream Sunnism) but the **regulative-rationalist posture toward popular jinn-discourse** seen in al-Khalīlī's fatwas: jinn are real, possession is theoretically possible, *but* the muftī actively dampens public claims and redirects them toward psychological diagnosis. Al-Khalīlī's "psychological / *īḥāʾ* model" (jinn may "influence so that the person speaks what he speaks" — *يؤثر عليه تأثيرا حتى يتحدث بما يتحدث به*) is a distinctively moderate modern Ibadi position that distances Ibadism from the heavy ruqya-exorcism industry of contemporary Salafism. Aṭfayyish's polemical use of Q 72:6 (jinn-human *istiʿādha*) against tomb-cults and *tawassul* is also doctrinally characteristic. **Confidence: M.**
+
+**Null.** No specifically Omani-folkloric jinn names sanctioned in religious texts located (no Ibadi equivalent of the Maghribi Sufi "jinn-kings" Mīmūn/Marra/Shamhūrish); Bayān al-Sharʿ verbatim on jinn: NULL; Muṣannaf al-Kindī verbatim: NULL.
+
+---
+
+## Q13 — Pre-Islamic Oman: Magan, Zoroastrianism, the arrival of Islam
+
+### Scope note
+
+Pre-Islamic Oman has no native epigraphy comparable to South Arabia's Sabaic/Minaic corpus. Reconstruction relies on Mesopotamian cuneiform references to Magan, mute archaeological material, brief Achaemenid/Sasanian inscriptions, and much later Arabic Muslim historiographies that retroject genealogy and politics. Confidence is weighted accordingly.
+
+### (a) General pre-Islamic religious practices
+
+There is no specific textual evidence in classical Arab sources that the five Noachic idols of Q 71:23 (Wadd, Suwāʿ, Yaghūth, Yaʿūq, Nasr) had cult centers in Oman proper. The Azd genealogy in al-Awtabī's *Kitāb al-Ansāb* (11th c., ed. D. Amaldi, *Arabia Antica* 13) traces Omani Arab tribes back to migration from Maʾrib but supplies essentially no detailed pre-Islamic theology. Iron-Age archaeology (A. Benoist, *Arabian Archaeology and Epigraphy* 18 [2007]: 34–54; in Avanzini ed., *Eastern Arabia during the First Millennium BC*, 2010, pp. 109–142) documents columned cultic halls at Rumeilah, Bithnah, Muweilah, Salut, but no inscriptions naming deities. **Confidence: M** on indigenous serpent cult; **L** on naming any South Arabian deity in Oman. **Null**: no epigraphic deity-name anywhere on any Bronze/Iron-Age site in Oman.
+
+### (b) Magan-period cultic evidence
+
+**Bat / al-Khutm / al-Ayn** (UNESCO World Heritage 434, inscribed 1988): two major Bronze-Age tomb traditions — Hafit beehive tombs (c. 3200–2700 BCE) and Umm an-Nar multi-chambered tombs (c. 2700–2000 BCE, up to ~200 interments). The seven stone "towers" (~20–25 m diameter) are of disputed function. No inscriptions; cultic interpretation rests on architectural elaboration, secondary processing of remains, and grave goods (Indus carnelian, Mesopotamian pottery).
+
+**Hili (UAE side)**: Cleuziou & Vogt, "Umm an-Nar Burial Customs," *PSAS* 13 (1983): 37–52; bull and snake reliefs on tomb facade stones (Hili, Mowaihat). **Dahwa 7** Umm an-Nar settlement: Y. Douglas et al., "A ritual building from the Umm an-Nar settlement, Dahwa 7," *AAE* 2024 — the first formally identified small ritual structures in an Umm an-Nar settlement context, separate from tombs.
+
+**Bisya/Salut** (Italian Mission to Oman, dir. A. Avanzini, then A. Zanini): Avanzini ed., *In the Heart of Oman: The Castle of Salut* (L'Erma di Bretschneider, 2015); Condoluci et al., "High Places in Oman" (Academia.edu). The Iron Age II cultic site on Jebel al-Aqma near Bisya yielded copper snake figurines, ceramic vessels with snake appliqué, votive arrowheads/daggers, columned hall architecture. **Mudhmar East near Adam**: French Mission (G. Gernez et al.), "New Evidence of Iron Age Ritual Practices in Central Oman" (*PSAS*), Buildings 1 and 2 with abundant snake figurines, miniature votive weapons, anthropomorphic figurines.
+
+**The snake/serpent cult (Iron Age II, c. 1000–600 BCE)** is the clearest peer-reviewed Omani cultic phenomenon: A. Benoist, "An Iron Age II Snake Cult in the Oman Peninsula: Evidence from Bithnah," *AAE* 18/1 (2007): 34–54; Benoist 2010, "Snake, copper and water in south-eastern Arabian religion during the Iron Age" — proposing association of snakes with copper metallurgy and water/falaj. Connected sites: Bithnah, Masāfī, al-Qusais, Saruq al-Hadid (Dubai, >200 kg ferrous remains plus extensive snake iconography), ʿUqdat al-Bakrah, Jebel Muḍmar, Husn Salut, Mudhmar East. **Ras al-Jinz / Ras al-Hadd** (Joint Hadd Project, Cleuziou & Tosi, 1985–2011): RJ-2 (Umm an-Nar, c. 2500–2000 BCE) — richest seal assemblage in Oman, Indus pottery (~20% of ceramics), bitumen with reed/rope/plank impressions (boat caulking).
+
+**Falaj-ritual link**: Costa & Wilkinson, *The Hinterland of Sohar* (1987) — of 23 surveyed systems, only one with pre-Islamic evidence, none Sasanian-dated; the "Persian falaj origin" claim is undermined.
+
+**Analysis.** Magan/Umm an-Nar religion is mostly funerary and symbolic; afterlife belief is inferable from elaborate communal tombs, secondary processing of remains, and grave goods. The clearest well-published Iron Age cultic phenomenon is the SE Arabian snake cult, tied to water and metal, attested at multiple independent sites across UAE and central Oman, strongly suggesting a regionally autochthonous serpent veneration. **No deity is identifiable by name.** **Confidence: H** for snake-cult horizon; **H** for tower-tomb funerary culture; **M** for ritual interpretation of building functions; **L** for deity identification (none possible).
+
+### (c) Achaemenid, Sasanian, Zoroastrian presence
+
+**Achaemenid (Maka satrapy).** Behistun inscription (c. 520 BCE) lists Maka as a satrapy; Akkadian equivalent Qadē; Assurbanipal's Ištar Slab cites tribute from Padē king of Qadē, capital at Iz/skie (= Izki, interior Oman). Persepolis Fortification Tablets PF 679–680 (per Potts, *A Companion to the Achaemenid Persian Empire*, Wiley 2021) record satraps at Makkaš c. 505/4 BCE: Irdumašda (*R̥tāmazdā*) and Zamašba (*Jāmāspa*) — both with Iranian/Zoroastrian theophoric names. Mykians served in Xerxes' army at Thermopylae (Herodotus 7.68). **No Achaemenid material culture excavated in Oman** (Potts, Kennet).
+
+**Sasanian (Mazūn province).** Šābuhr I's trilingual inscription at the Kaʿba-ye Zardošt, Naqš-e Rostam (mid-3rd c. CE), §3.17, lists **Mazūn** among empire territories. The Middle Persian *Šahrestānīhā ī Ērānšahr* (8th c.) §25 records Ardashir I appointing Ošag of Hagar as *marzbān* over "Dō-sar and Borg-gil by the wall of the Arabs"; Yāqūt's *Muʿjam al-Buldān* V:122 notes Ardashir deported the Azd from Oman to Šeḥr in Hadhramawt. *Kārnāmag ī Ardašīr ī Pābagān* mentions "Tāzīgān ud Mazūnīgān." Khosrow I (r. 531–579) appointed the Lakhmid al-Mundhir III to Mazūn c. 531/2 (Potts, "Arabia ii. The Sasanians and Arabia," *Encyclopaedia Iranica*, 2012).
+
+**Critical counter-evidence**: Derek Kennet, "The decline of eastern Arabia in the Sasanian period," *AAE* 18 (2007): 86–122 — re-survey of pottery and sites concludes late Sasanian eastern Arabia was "an impoverished region with a low population that was not closely integrated into the Sasanian economy." Munt, "Oman and Late Sasanian Imperialism," *AAE* 2017: 264–284 — direct Sasanian admin was real but Wilkinson's earlier picture of intense agricultural development is unsupported by survey. The classic synthesis remains J. C. Wilkinson, "The Julanda of Oman," *Journal of Oman Studies* 1 (1975): 97–108 and *Water and Tribal Settlement in South-East Arabia* (Clarendon, 1977: 133–155).
+
+**Fire temples and Zoroastrian survival.** **No archaeologically confirmed Zoroastrian fire temple has been excavated in Oman.** No Zoroastrian funerary tower (*dakhma*); no Pahlavi stone inscriptions in Oman known to publication. Rustāq's *Qalʿat al-Kisra* and Nakhal Fort are popularly called pre-Islamic but the standing structures are 17th-c. or later; the "Persian influence" tourism literature is not archaeologically substantiated as Sasanian cult.
+
+**Julanda as Sasanian vassal.** The Azd Shanūʾa clan was elevated by Persians to manage the Arab tribal interior (Wilkinson 1975, JOS 1). The dual-rule treaty — coastal Persians + interior Julandā collecting tithe at Dibba — is reported in al-Awtabī's *Ansāb* and later in al-Sālimī's *Tuḥfat al-Aʿyān*. **Confidence: H** on administrative presence; **M** on intensity; **H** on the null for fire-temples; **H** on Julandā as Persian vassal.
+
+### (d) Mesopotamian transmission via the copper trade
+
+Sargonic and Ur III tablets (c. 2350–2000 BCE) cite Magan as Mesopotamia's principal copper source; Naram-Sin campaigned against Manium of Magan c. 2250 BCE. Potts (*The Arabian Gulf in Antiquity*, Oxford 1990) identified >150 copper-mining/smelting sites in Oman (Maysar, Wadi Jizzi, Wadi Samad). Material exchanges include Mesopotamian Jemdet-Nasr pottery in Hafit tombs, Sumerian-style cylinder seals in some Umm an-Nar contexts, Indus stamp seals at Ras al-Jinz, Harappan red-and-black pottery and carnelian at Bat, Hili, and Tell Abraq.
+
+**Religious transmission specifically: very limited and indirect.** **No Sumerian or Akkadian deity name is attested in Oman**; no Mesopotamian-style ziggurat or temple; no cuneiform school. The Gudea diorite statuary in Mesopotamia reflects raw-material *export*, not religious export. Some scholars suggest the snake-cult parallels resonate with broader Near Eastern serpent symbolism (Mesopotamian Ningishzida, Elamite serpent imagery) but the SE Arabian snake cult is primarily autochthonous. **Confidence: VH** for copper-trade economic link; **L** for direct religious transmission.
+
+### (e) Fate of pre-Islamic religion when Islam arrived
+
+**The letter and conversion (629–630 CE).** Al-Balādhurī's *Futūḥ al-Buldān*: Muḥammad sent ʿAmr b. al-ʿĀṣ al-Sahmī (with Abū Zayd al-Anṣārī) bearing a letter to **Jayfar and ʿAbd, sons of al-Julandā**, then ruling jointly at Sohar. A leather manuscript claimed as the original 8/630 CE letter (with seal) is held at the National Museum of Oman; its authenticity is contested on paleographic grounds (the floral border has been read as later Persian-influenced ornamentation). The standard text begins «بسم الله الرحمن الرحيم، من محمد رسول الله إلى جيفر وعبد ابني الجلندى، سلام على من اتبع الهدى، أما بعد فإني أدعوكما بدعاية الإسلام، أسلما تسلما...». Al-Ṭabarī's *Tārīkh* and Ibn Saʿd's *Ṭabaqāt* record peaceful acceptance; al-Sālimī's *Tuḥfat al-Aʿyān bi-sīrat ahl ʿUmān* I:51ff (Cairo 1928/1931, ed. Ibrāhīm Aṭfayyish) reproduces the narrative.
+
+**Persian military expulsion (630 CE).** The Azd, allied with the Julandā brothers, defeated the Sasanian governor (named Maskān/Maskūt in variant readings) at **Dastajird in Sohar** in 630 CE. The Persians fled, "leaving their silver and gold" (Wilkinson 1975, JOS 1). Wilkinson (cited in Munt 2017): "Ṣuḥār was the main Persian centre on the coast with a standing army based in the fortified quarter of Dastajird" — until Arab eviction at the conversion to Islam.
+
+**The Ridda war and the Battle of Dibba (632–633 CE).** After Muḥammad's death, Laqīṭ b. Mālik al-Azdī (Dhū al-Tāj, "the Crowned One"), an apostate rival to the Julandā, rebelled. Abū Bakr sent Ḥudhayfa b. Miḥsan al-Ghalfānī and ʿArfaja al-Bāriqī, then ʿIkrima b. Abī Jahl from Yamāma as reinforcement; combined forces defeated Laqīṭ at Dibba; casualties of 10,000 are reported (al-Ṭabarī). The "Day of Dibba" is framed as the defeat of paganism by Islam — though in practice it was also the consolidation of Julandā loyalty under Medinan suzerainty.
+
+**Fate of Persians and Zoroastrianism after 630 CE.** The Sasanian garrison was militarily expelled in 630; no source records mass conversion of the resident Persian population; they "evacuated the country." Pockets of Persian-descent population (Bayāsira, ʿAjam, later Lawātiyya, Baluchi) survived along the Bāṭinah coast and converted to Islam over generations. **No source records the destruction of an Omani fire temple by Muslims** — because no fire temples have been excavated. By the 7th c. CE the active cultic landscape included Christian (Nestorian: bishoprics at Mazūn/Sohar attested in Syriac synod lists 5th–7th c.), Jewish trader communities, Persian Zoroastrians (military), and tribal Arab paganism (limited evidence). **Indigenous pre-Islamic Omani religion** (the snake-cult horizon) **had ended c. 300 BCE–300 CE** — well before Islam — and was not "suppressed" by Muslims because it had already ceased.
+
+**Analysis.** Islam's arrival in Oman was *simultaneously* a religious conversion of the ruling Julandā and an anti-Persian liberation movement. The "peaceful" narrative is real for the Julandā but masks the subsequent Ridda war and the military expulsion of Persians. Zoroastrianism's footprint in Oman appears to have been confined to the garrison community, which left in 630. **Pre-Islamic Omani religious knowledge was not preserved underground in Oman as a clandestine cult**; it had already died centuries before. What got preserved through the conversion was the *Julandā political system* and Arab tribal genealogy — which is exactly what al-Awtabī's *Ansāb* and al-Sālimī's *Tuḥfat al-Aʿyān* record. **Confidence: H** on Julandā conversion; **H** on Persian expulsion; **H** on the Battle of Dibba; **M** on letter manuscript authenticity; **H** on the null for fire-temple destruction.
+
+---
+
+## Q14 — Musnad al-Rabīʿ vs. the Ṣaḥīḥayn: systematic comparison
+
+### Baseline numbers (confirmed)
+
+The Musnad in al-Wārijlānī's recension contains **1,005** reports across 4 parts. Parts I–II = **742 marfūʿ muttaṣil** (Mansouri/Drissi/Mizouri 2018 critical edn., Oman/Europe University). Some Ibadi sources cite 743 marfūʿ + 27 mawqūf/maqṭūʿ athar for the original core (Khamīs al-Shaqṣī, *Manhaj al-Ṭālibīn*). Al-Wārijlānī added Part III (140 athār — polemical) and Part IV (123 — Maḥbūb b. al-Ruḥayl ← al-Rabīʿ; Aflaḥ b. ʿAbd al-Wahhāb ← Abū Ghānim al-Khurāsānī; marāsīl Jābir). Bukhārī: ~2,602 unique. Muslim: ~3,033 unique. **Confidence: VH.**
+
+### (a) Shared with Bukhārī/Muslim
+
+**No published comprehensive concordance located.** This is a methodologically important finding in itself: the comparative literature exists but is *qualitative*. Muḥammad Idrīs's *Takhrīj aḥādīth al-Musnad wa-muqāranatuhā* tabulates *shawāhid* without an aggregate count. ʿAbd al-Raḥmān al-Sālik's dissertation *Musnad al-Rabīʿ b. Ḥabīb ʿinda al-Ibāḍiyya: Dirāsa Naqdiyya* and Saʿd b. ʿAbdallāh Āl Ḥumayd's *Aqsām al-ḥadīth fī Musnad al-Rabīʿ — Dirāsa Naqdiyya* (Kulliyyat Uṣūl al-Dīn, 2009) classify by sound/weak but do not publish a Bukhārī/Muslim overlap statistic. The only published quantitative comparison Āl Ḥumayd cites is Musnad ↔ *Jāmiʿ Ibn Baraka* (Ibadi): "thalāthat arbāʿ aḥādīth al-Musnad lā tūjad fī kitāb Ibn Baraka." Al-Sālimī's *Sharḥ al-Jāmiʿ al-Ṣaḥīḥ* asserts qualitatively that "most" of the 742 marfūʿ overlap with Sunni transmissions, sometimes with slight variant wording.
+
+**Reasoned estimate (explicitly not published).** Shared-with-Bukhārī-or-Muslim plausibly falls in **~300–450 of 742 marfūʿ** (~40–60%); *muttafaq ʿalayh* (both) substantially lower, ~150–250. The Omani Sharīfīn essay (omandaily.om, 2021) calls for exactly such studies to be carried out — implying they have not been. **Confidence: L** for the numerical range; **H** for the claim that no published concordance exists.
+
+### (b) Unique to the Musnad
+
+Again no published count. Structural argument: Parts III + IV (140 + 123 = **263**) are essentially unique to the Ibadi tradition; from the 742 marfūʿ a residual ~150–300 plausibly lack Ṣaḥīḥayn parallels. Estimated total unique: ~**400–550 of 1,005**. **Confidence: L** numerical; **M** structural.
+
+### (c) Unique tawḥīd / divine-attribute material
+
+No published quantitative isolation of this category. Part III is the natural locus — the polemical section explicitly used against opponents on *qadar*, *ruʾyat Allāh*, *khalq al-Qurʾān*, *al-imāma*. Nada al-Qushayrī's 2018 article *Ruʾyat Allāh ʿinda al-Ibāḍiyya — Dirāsa Naqdiyya* (BFSA Journals) confirms that the Ibadi anti-ruʾya position relies on these specific Musnad proof-texts: «مستدلين بالأدلة الواردة في مسند الربيع بن حبيب الذي يعتبر عندهم المرجع المعتمد». Reasoned estimate: ~**40–80** of the 140 Part-III athār concern tawḥīd/ṣifāt/ruʾya/khalq al-Qurʾān/qadar. **Confidence: L** numerical; **H** structural.
+
+### (d) Variant matn with theological consequence
+
+No comprehensive matn-divergence catalog located. Specific cases assembled from primary sources:
+
+**The opening hadith.** Musnad #1 (al-Wārijlānī's arrangement, Part I): «نية المؤمن خير من عمله، ونية الفاجر شر من عمله» — *"The intention of the believer is better than his deed; and the intention of the corrupt one is worse than his deed."* Sunni opener: Bukhārī #1 / Muslim #1907 «إنما الأعمال بالنيات» via the ʿUmar narration. The Ibadi version (i) drops the ʿUmar route, (ii) adds the moralized *fājir*-clause, (iii) routes through Ibn ʿAbbās ← Jābir ← Abū ʿUbayda. Al-Albānī (*Silsila Ḍaʿīfa* #2789) declares the second clause lacks any independent authentic chain; the closest parallel is a weak Ṭabarānī mawqūf via Sahl b. Saʿd (*al-Muʿjam al-Kabīr* #5942). **Theological implication**: the Ibadi version foregrounds intention over external act — coherent with the stricter Ibadi *takfīr-of-murtakib-al-kabīra* position.
+
+**Anti-anthropomorphism cluster.** The Musnad's recension of the *raʾā rabbahu* / *kursī* / *yad Allāh* material lacks the anthropomorphic-leaning Ṣaḥīḥayn forms: Bukhārī #554 («إنكم سترون ربكم كما ترون القمر»), #7437 (*ḥadīth al-shafāʿa* with «حتى يضع الجبار قدمه»), #7416 (*ḥadīth al-aṭīṭ*), #7406 («ينزل ربنا»), Muslim #181 (*ḍaḥik Allāh*). Multiple Ibadi and academic sources note the Musnad's tanzīh-compliant orientation as a feature. **Confidence: M** — pending verification by full concordance search.
+
+**Ḥadīth al-shafāʿa.** The Musnad version «ثم يقال لي يا محمد اشفع نشفعك» appears without the Sunni anthropomorphic clause «يضع الجبار قدمه على النار» (Bukhārī #7449, #4848). Ibadi commentary rejects *shafāʿa li-ahl al-kabāʾir* — a structural Ibadi disagreement with Sunnism.
+
+**Musnad #844.** Al-Albānī notes a mawqūf-on-Abū-Hurayra of material that is *marfūʿ* in al-Bukhārī — the Ibadi version downgrades a Prophetic statement to a Companion statement, removing binding authority. The isnād runs through Bishr al-Marīsī (the Muʿtazilite, d. 218 AH), Muḥammad b. Yaʿlā (Jahmī, *matrūk*), al-Ḥasan b. Dīnār (*kadhdhāb*), Khaṣīb b. Jaḥdar (*kadhdhāb*) — an anachronism noted by al-Albānī: "هذا أولًا سند ليس له علاقة بالربيع، فمن الذي أدخله في هذا الكتاب؟"
+
+**Pattern.** Where Musnad and Ṣaḥīḥayn share a base hadith, the Ibadi version tends to (i) drop anthropomorphic clauses, (ii) reframe marfūʿ → mawqūf where the marfūʿ form has rejected theological implications (shafāʿa, ruʾya), (iii) add Ibadi-distinctive parallelisms (the *fājir* clause). Directionality strongly supports the project's "anti-anthropomorphism as diagnostic" frame — but a Sunni reader interprets the same pattern as Ibadi tampering, while an Ibadi reader interprets it as Sunni anthropomorphic accretion. **The textual evidence underdetermines the directionality.** **Confidence: M** pattern; **L** specific examples.
+
+### (e) Al-Albānī's specific critiques and the Ibadi defense
+
+**Al-Albānī's named work**: *Silsilat al-Aḥādīth al-Ḍaʿīfa wa-l-Mawḍūʿa wa-atharuhā al-sayyiʾ fī al-umma*, Dār al-Maʿārif, Riyadh, 1st ed. 1412/1992, 14 vols.
+
+| Silsila # | Matn | Musnad location | Al-Albānī's basis |
+|---|---|---|---|
+| #2789 (6/304) | «نية المؤمن خير من عمله، ونية الفاجر شر من عمله» | Musnad #1 | al-Rabīʿ "إباضي مجهول ليس له ذكر في كتب أئمتنا"; Abū ʿUbayda *majhūl*; the *fājir* clause has no corroborating chain. |
+| #9562 | «إذا خُطب إليكم كفؤ فلا تردّوه فنعوذ بالله من بوار البنات» | Musnad #513 (Bāb al-nikāḥ) | Mawḍūʿ. "الربيع هذا نكرة لا يعرف… حتى الإباضيون لم يستطيعوا أن يذكروا لنا شيئًا من تاريخ حياته." |
+| (ref. 1384/1429) | «ألا إن رحى الإسلام دائرة، اعرضوا حديثي على الكتاب…» | Bāb al-ʿilm | *Ḍaʿīf jiddan*; Yazīd b. Rabīʿa *matrūk* per Nasāʾī, Dāraquṭnī; Bukhārī: "aḥādīthuhū munkara". |
+| #844 (222) | mawqūf on Abū Hurayra of a Bukhārī-marfūʿ | Musnad #844 | Anachronistic isnād through Bishr al-Marīsī etc.; "كشكول مجموع من عدة روايات". |
+
+Al-Albānī's summary verdict (*Silsila* 6/304; verbatim from islamqa.info, dd-sunnah.net): «والربيع بن حبيب — وهو الفراهيدي البصري — إباضي مجهول، ليس له ذكر في كتب أئمتنا، ومسنده هذا هو "صحيح الإباضية"! وهو مليء بالأحاديث الواهية والمنكرة.» In *Ṣifat Ṣalāt al-Nabī* p. 188 he writes: «رواه ربيعُهم في مسنده المجهول». Reaffirmed by Mashhūr Ḥasan, *Kutub ḥadhdhara minhā al-ʿulamāʾ* 2/295–296. **Confidence: VH** on Silsila numbers and verbatim verdicts.
+
+**The Ibadi defense.** The canonical work is **Saʿīd b. Mabrūk al-Qannūbī**, *al-Imām al-Rabīʿ b. Ḥabīb — makānatuhū wa-musnaduhū* (multiple printings; alsaidia.com): defends al-Rabīʿ's biography, sets birth ~75–80 AH and death ~150–200 AH, defends Abū ʿUbayda, and rebuts al-Albānī's specific charges. Al-Qannūbī also authored ***al-Sayf al-Ḥādd fī al-Radd ʿalā man akhadha bi-ḥadīth al-āḥād fī masāʾil al-iʿtiqād*** (islamarchive.cc/bibliography-ar/2047483) — a methodological work rejecting *āḥād* hadith as proof in ʿaqīda, not specifically anti-Albānī. **Important clarification: the title cited in the research brief ("al-Sayf al-Ḥadīd fī al-Radd ʿalā al-Albānī fī tadʿīfihi al-Rabīʿ b. Ḥabīb") does not match any located work; it appears to conflate al-Qannūbī's two works.** The Mufti Aḥmad b. Ḥamad al-Khalīlī publicly endorses Qannūbī as the principal Ibadi muḥaddith on this question. **Confidence: H** on the bibliographic clarification.
+
+**The rijāl question — Ibn Ḥibbān and the "two Rabīʿs."** Ibn Ḥibbān's *al-Thiqāt* lists two distinct Rabīʿ b. Ḥabībs: (i) a Basran who narrates from al-Ḥasan and Ibn Sīrīn, and (ii) Abū Salama al-Ḥanafī of Yamāma. Yaḥyā b. Maʿīn (per al-Dūrī's *Tārīkh* 3/353): «الربيع بن حبيب أيضًا صرى، يروي عن الحسن وابن سيرين وهو ثقة.» Neither is the Ibadi **al-Rabīʿ b. Ḥabīb al-Farāhīdī al-Azdī**, who belongs to a later *ṭabaqa* and reaches al-Ḥasan or Ibn Sīrīn only through two intermediaries (not directly), as visible from the Musnad's own isnāds (#475, #713, #848, #852). The Ibadi case (per Wikipedia AR, alsaidia.com) conflates these. Ibn ʿAdī's *al-Kāmil* 3/137 records of "al-Rabīʿ al-Ghaṭafānī": «وأنا لا أعرفه ولا أدري من يروي عنه وعن من يروي عنه، ولم ينسبه ربيع بن من، فهو مجهول من كل جهاته» — and some Ibadi sources do nisbah al-Farāhīdī to Ghuḍfān/Ghaṭafān, suggesting this is plausibly the same person Ibn Maʿīn (in this entry) found *majhūl*. **Confidence: VH** on the two-Rabīʿ distinction; **H** that the Ibn Ḥibbān *Thiqāt* entries Ibadis invoke are for a different person.
+
+**Cross-reference to project hypothesis.** The Musnad is a productive test case precisely because (1) it claims an isnād parallel to a Basran Sunni-acknowledged tābiʿī (Jābir b. Zayd), (2) it systematically lacks the most theologically loaded anthropomorphic matns of the Ṣaḥīḥayn, and (3) the historical evidentiary chain for it as a genuine 2nd-c. text is weak — first MS attestations are post-Wārijlānī (6th/12th c.). Either the Ṣaḥīḥayn contain post-Rabīʿ anthropomorphic accretions, or the Musnad's tanzīh-compliance reflects post-2nd-c. Ibadi editing. **The data underdetermine the directionality.** A cleaner test would identify Ibadi hadiths with strong pre-Wārijlānī attestation — *Mudawwanat Abī Ghānim al-Khurāsānī* (late 2nd c. AH) is the most promising candidate for that follow-up.
+
+---
+
+## Conclusion: how the picture shifts after these six inquiries
+
+Three findings change the project's working model.
+
+**First, the diagnostic does not generalize.** The Ibadi case demonstrates that maximal anti-anthropomorphism for God can coexist with maximal literalism about jinn — because *tanzīh* is principled creator-doctrine governed by *mukhālafa li-l-ḥawādith*, not a generalized demythologizing impulse. **Anti-anthropomorphism is not a reliable proxy for naturalistic cosmology.** The project should expect the same asymmetry in Muʿtazilī and Imāmī traditions: literal jinn, transcendent God.
+
+**Second, the "species hardware limitation" reading of Iblīs is textually grounded in mainstream Ibadi tafsīr.** Aṭfayyish on Q 17:64 («وجند إبليس يومئذ من الجن») together with the Ibadi consensus on Q 18:50, Q 7:12, and the *istithnāʾ munqaṭiʿ* reading of Q 2:34 give the project its strongest documentary warrant for the frame so far: Iblīs's *fisq* flows from his jinn-substance — that fire-substance is the precondition of *ikhtiyār* (which angels of *nūr* lack), and *ikhtiyār* is the precondition of disobedience.
+
+**Third, the textual-suppression signal is most concrete in the Naffāth burning.** The Diwan of Jābir was destroyed not by Umayyad authorities but by a doctrinally aligned insider (Naffāth b. Naṣr al-Nafūsī), opposed to the Rustamid Ibadi mainstream. The surviving Jābir corpus is conspicuously empty of cosmology, rūḥ, and jinn material — the categories that would normally have appeared in a fully transmitted *ʿaqīda*-inclusive Diwan. This is exactly the *asymmetric loss* the project's hypothesis predicts.
+
+Two cautions temper these gains. The Musnad-as-2nd-century-document case is contested; the earliest secure manuscript attestation is post-al-Wārijlānī (6th/12th c.), and no published quantitative concordance with the Ṣaḥīḥayn exists — meaning the directionality of the divergence (Ibadi preservation of original tanzīh vs. Ibadi editorial selection) cannot be settled from textual evidence alone. And on Magan, religious knowledge is mute — there is a coherent autochthonous Iron-Age serpent cult tied to copper and water, but **no deity is known by name from any site in Oman**. The "what was lost when Islam arrived" question collapses for Oman specifically because indigenous pre-Islamic religion had already died centuries before Islam: what arrived in 630 CE met Christians, Jews, a Persian military garrison, and a moribund tribal paganism — not a living indigenous cult to suppress.
+
+The most productive next moves are concrete: (i) direct browser retrieval of Aṭfayyish on Q 2:30–39, Q 7:11–13, Q 15:26–43, Q 18:50, Q 38:71–85 from altafsir.com / greattafsirs.com (bot-blocked in this session); (ii) systematic concordance of Musnad ↔ Ṣaḥīḥayn (does not exist in the published literature); (iii) inspection of *Mudawwanat Abī Ghānim al-Khurāsānī* as a pre-Wārijlānī Ibadi witness; (iv) targeted search of Bayān al-Sharʿ for Jābir-attributed cosmological material at exact volume/page resolution.
