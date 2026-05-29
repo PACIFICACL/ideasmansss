@@ -1,75 +1,176 @@
-
-# TRUTH PROJECT — RESEARCH PROMPTS v11 / v12 / v13 / v14
-# Four Parallel Research Tracks
-# Generated: May 28, 2026
-
----
-
-## UNIVERSAL METHODOLOGY — APPLIES TO ALL FOUR TRACKS
-
-### LANGUAGE RULE (NON-NEGOTIABLE):
-- Search in the ORIGINAL LANGUAGE of each tradition FIRST.
-- Arabic (عربي), Farsi (فارسی), Hebrew (עברית), Akkadian/Sumerian transliterations, Sanskrit (संस्कृत), Classical Chinese (文言文), Coptic, Ge'ez, Old Norse, Greek (Ελληνικά), Irish (Gaeilge) — as relevant per question.
-- English sources ONLY for cross-reference AFTER original-language results.
-- If a question specifies a language, use THAT language for search.
-
-### CITATION RULE:
-- Named edition, named author, specific chapter/verse/line.
-- "According to tradition" is NOT a citation. Verbatim quotes with transliteration required for key terms.
-
-### CONFIDENCE RATINGS:
-- **VH** = verbatim primary text in named edition
-- **H** = strong textual basis, multiple sources
-- **M** = reasonable inference, interpretive steps required
-- **L** = speculative, thin evidence
-
-### NULL RESULTS:
-- If a tradition has NOTHING on a question, state "NULL — [tradition] yields no result for [topic]." Silence is data.
-
-### ANSWER FORMAT:
-- For each question: provide the evidence, then a 2-3 sentence analysis, then confidence rating, then null results for traditions checked.
-- Keep answers CONCISE. No preamble. No hedging. Evidence → analysis → rating.
+# TRUTH PROJECT — MODULE 2 RESEARCH PROMPT
+## THE CREATION PROJECT: Human Creation, the Nafkha, the Prostration, and the Fall
+### For use in an independent deep research session
 
 ---
 
+## CRITICAL CONSTRAINT
 
-# TRACK 2 (v12): IBADI ISLAM & OMANI SOURCES — DEEP DIVE
-
-**Focus:** Mine the surviving Ibadi scholarly corpus for material relevant to the project. Creation narratives, cosmology, prophetic history, and the specific content of their independent hadith chain.
-
-### Q9: MUSNAD AL-RABI' — ANTI-ANTHROPOMORPHISM HADITH
-Search in Arabic. Access the full text of the Musnad (available on usul.ai and hadith.islam-db.com). (a) Provide the COMPLETE text of every hadith in the Musnad's tawhid section (chapters 164-167+). (b) What SPECIFIC hadith about divine attributes appear in the Musnad but NOT in Bukhari/Muslim? (c) What hadith about divine attributes appear in Bukhari/Muslim but NOT in the Musnad? (d) The divergence between these two corpora on tawhid = data about institutional selection. Map it.
-
-### Q10: JABIR IBN ZAYD'S SURVIVING FRAGMENTS
-Search in Arabic. (a) What fragments of the Diwan of Jabir ibn Zayd actually survived the Naffath burning? (b) Are there any surviving letters (rasa'il) attributed to Jabir? (c) What rulings, opinions, or exegetical positions attributed to Jabir are preserved in later Ibadi encyclopedias — specifically the Musannaf of al-Kindi, the Bayan al-Shar' of al-Kindi, or the Jami' of Ibn Ja'far? (d) Do any of these fragments address creation, cosmology, the nature of the soul, or the nature of Jinn?
-
-### Q11: ATFIYYASH'S CREATION NARRATIVE
-Search in Arabic. Himyan al-Zad and Taysir al-Tafsir by Muhammad bin Yusuf Atfiyyash. (a) What is Atfiyyash's FULL commentary on the creation of Adam (Q 2:30-39)? (b) How does he interpret "I am placing on earth a khalifa"? (c) How does he interpret the teaching of "all the names"? (d) What does he say about the nature of the nafakha/ruh? (e) How does he treat Iblis's refusal — is it moral failure, species limitation, or both? (f) Does he address pre-Adamic creation?
-
-### Q12: IBADI POSITION ON JINN
-Search in Arabic. (a) What is the Ibadi theological position on the nature of Jinn? Physical beings, spiritual beings, or spectrum? (b) How does the Ibadi tradition interpret Q 72 (Surat al-Jinn) — the Jinn listening to the Quran? (c) Do Ibadi scholars accept the hadith about Iblis being from the Jinn? (d) How does their anti-anthropomorphism apply to descriptions of Jinn — do they also reject physical literalism for Jinn descriptions? (e) Do any Ibadi sources preserve unique traditions about Jinn-human interaction?
-
-### Q13: PRE-ISLAMIC OMAN — MAGAN RELIGION
-Search in Arabic and archaeological sources. (a) What religious practices existed in Oman before Islam? (b) Are there any inscriptions, petroglyphs, or artifacts from the Magan period (2600-550 BCE) that indicate religious belief? (c) Did Zoroastrian practices survive in Oman — and if so, what specific Zoroastrian texts or traditions were known there? (d) Is there evidence of Sumerian religious transmission to Oman via the copper trade? (e) What happened to pre-Islamic Omani religious knowledge when Islam arrived — was it destroyed, absorbed, or preserved underground?
-
-### Q14: THE IBADI MUSNAD VS. SUNNI SIHAH — SYSTEMATIC COMPARISON
-Search in Arabic. (a) How many hadith in the Musnad of al-Rabi' are SHARED with Bukhari and Muslim? (b) How many are UNIQUE to the Musnad? (c) Among the unique hadith, how many concern tawhid/divine attributes? (d) Among the shared hadith, do any show VARIANT wording that changes theological meaning? (e) Al-Albani's specific critiques in Silsilat al-Ahadith al-Da'ifah — what SPECIFIC hadith does he target and WHY?
-
-
-## DELIVERY FORMAT FOR ALL TRACKS
-
-For each question, provide:
-1. **Evidence** — verbatim citations in original language + translation
-2. **Analysis** — 2-3 sentences maximum
-3. **Confidence** — VH/H/M/L
-4. **Null results** — explicitly stated per tradition checked
-5. **Cross-reference** — flag any connection to existing Truth Project findings (F-numbers or Pattern Candidates)
-
-Total questions: 29 across four tracks.
-Priority order: Q9-Q14 (Ibadi) → Q1-Q8 (Torah Forensics) → Q15-Q21 (Watcher Admin) → Q22-Q29 (Physics/Unexplored)
+**NO ENGLISH-LANGUAGE SOURCES.** Acceptable: Arabic, Sanskrit, Pali, Hebrew, Aramaic, Akkadian, Sumerian, Classical Chinese, Avestan, Pahlavi, Tibetan, Quechua, colonial Spanish, K'iche' Maya, Yoruba, French, German (for Assyriology), Ge'ez, Coptic, Egyptian hieroglyphic. Modern secondary sources in French, German, or Latin American Spanish only. **English is not acceptable.** If a claim can only be sourced in English, note the gap.
 
 ---
 
-*"The diagnostic is simple: physical attributes = Watcher. Transcendent attributes = Source. The Ibadis have been applying this for 1300 years. We just gave it a name."*
+## PURPOSE
 
-— Truth Project, Session of May 28, 2026
+Locate, transcribe, and translate the PRIMARY TEXT passages describing the creation of humans and the installation of the breath/spirit/soul — the moment the clay vessel receives the capacity that makes humans unique — across every tradition that preserves this narrative. Then pull the prostration/refusal/fall sequence. The output is a SOURCE DOCUMENT: literal transcriptions + translations, organized by tradition.
+
+This module audits the following claims from the Narrative Skeleton v1.0:
+- Humans were created from clay + divine biological material as a labor replacement (Atrahasis)
+- The nafkha (divine breath) was deposited from the Source tier, granting imagination / capacity for ALL names
+- The prostration command triggered the Pretender's refusal due to biological limitation (fire can't perceive the nafkha)
+- The rebellion trigger is three-layered: biological limitation + political network + proximate humiliation
+- Two knowledge streams split: loyal (indirect/seed) vs. rebel (direct/download)
+- The Andean, Mesoamerican, Yoruba, and Egyptian traditions preserve independent parallels
+
+---
+
+## FOR EACH PASSAGE FOUND
+
+- Critical edition (author, title, publisher, year — original language preferred)
+- Text in ORIGINAL LANGUAGE (full diacritical marks for Arabic/Sanskrit; cuneiform transliteration for Akkadian; characters for Chinese)
+- LITERAL word-by-word or clause-by-clause translation
+- Oldest surviving manuscript/tablet
+- Classify: does the text describe the "breath" as (a) a physical substance transferred, (b) a divine essence/emanation, (c) a created capacity installed, (d) ambiguous
+- **NULL REPORTING mandatory** — if a tradition has no "breath into clay" moment, state that
+
+---
+
+## THE TRADITIONS TO SEARCH
+
+### 1. AKKADIAN / SUMERIAN — Atrahasis and Enki-Ninmah
+
+a) **Atrahasis Tablet I** (Lambert & Millard 1969; Lambert revised 2005 if available in French/German) — the FULL creation sequence:
+- The Igigi revolt: what specific work are they doing? (Canal-digging, river-clearing — NOT gold mining.) Pull the Akkadian lines.
+- The solution proposed: create humans (*lullû*) to bear the toil.
+- The killing of the god Wê-ila (also written Geshtu-e / Ila-wê): the Akkadian for "a god who had *ṭēmu*" — intelligence/planning capacity. **PULL THE EXACT CUNEIFORM LINE.** Does the text actually say *ṭēmu*? This is the cuneiform basis for the nafkha concept — the intelligence/spirit component that transfers from the divine donor to the human vessel.
+- The mixture: clay (*ṭiṭṭu*) + the blood/flesh of the slain god + saliva of the other gods (*rūqu*?) + the breath/spirit component.
+- Transliteration (normalized Akkadian) + translation. Note which tablet fragment(s) preserve each line.
+
+b) **Enki and Ninmah (ETCSL 1.1.2)** — the parallel creation narrative where drunk Ninmah creates seven "botched" humans and Enki assigns them social roles. Sumerian + translation.
+- CRITICAL COMPARISON: How does this relate to the Yoruba Obatala narrative (drunk creator, botched humans assigned roles)? Is this convergent or is there a transmission pathway?
+
+c) **Enūma Eliš Tablet VI** — the creation of humans from the blood of Kingu (the defeated rebel commander). Akkadian + translation.
+- Note: in Enūma Eliš, the blood donor is a REBEL god (Kingu led Tiamat's army), whereas in Atrahasis the donor is described as having *ṭēmu* (intelligence). Different theologies, same mechanism?
+
+d) **SEARCH French/German Assyriological journals** (Revue d'Assyriologie, Zeitschrift für Assyriologie, NABU) for philological analysis of *ṭēmu* in the creation context — what precisely does this term mean, and does it map to "spirit" or "intelligence" or "planning capacity"?
+
+### 2. HEBREW — Genesis 2:7 and the Neshamah
+
+a) **Genesis 2:7 (Masoretic Text):**
+וַיִּ֩יצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+
+Word-by-word grammatical analysis:
+- *wayyiṣer* (and He formed — from *yṣr*, to mold/shape — potter's verb)
+- *'afar min-ha'adamah* (dust from the ground — note the wordplay *'adam*/*'adamah*)
+- *wayyippaḥ* (and He breathed/blew — from *npḥ*, to blow — the SAME root as Arabic *nafakha*)
+- *nishmat ḥayyim* (breath of life / soul of lives)
+- *nefesh ḥayyah* (living being/soul)
+
+- CRITICAL: *nishmat ḥayyim* vs. Quranic *rūḥ* — same concept? Different? Pull Rashi's commentary (Hebrew) and the Ramban's commentary (Hebrew) on this verse. How do they understand *neshamah* vs. *nefesh*?
+
+b) **The Zohar on Genesis 2:7** — Aramaic text + translation. Does the Zohar's five-level soul architecture (nefesh/ruaḥ/neshamah/ḥayyah/yeḥidah) map onto this verse? Pull the specific Zoharic passage.
+
+c) **Genesis 3:1-7 — The nachash (serpent) and knowledge:**
+- The nachash described as *'arum* (cunning/shrewd — from the same root as *'erom*, naked). Hebrew word-play analysis.
+- The tree of knowledge of good and evil (*'eṣ ha-da'at ṭov va-ra'*) — what does *da'at* mean here? Knowledge, perception, experience?
+- CRITICAL for project: Is the nachash villainized for giving knowledge? Does this match the Torah Enemy Forensics Category A (truth-carrier targeted for elimination)?
+
+### 3. QURANIC ARABIC — The Nafkha and the Prostration Scene
+
+This is the MOST IMPORTANT tradition for this module. Pull EVERY relevant verse with FULL Arabic text (with tashkīl) and word-by-word analysis.
+
+a) **Q 2:30-34 — The full creation-and-prostration sequence:**
+- v.30: The angels' objection: "Will You place therein one who will cause corruption and shed blood?" — أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ
+- v.31: The teaching of names: وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا — "And He taught Adam the names, ALL of them." What are "the names"? Pull Ibadi tafsīr (al-Sālimī or Atfiyyash). Pull Mu'tazilite tafsīr (al-Zamakhsharī, al-Kashshāf). Pull Sufi tafsīr (Ibn 'Arabi, Fuṣūṣ ch.1). Does any commentary specify what "all names" means practically?
+- v.33-34: Adam demonstrates knowledge the angels lack. The prostration command. Iblis refuses.
+- FULL Arabic + word-by-word for ALL five verses.
+
+b) **Q 7:11-18 — The Pretender's argument:**
+- v.12: أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ — "I am better than him — You created me from fire and created him from clay."
+- v.14-15: He requests TIME, not victory — أَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ — "Grant me respite until the day they are resurrected."
+- v.16-17: His stated strategy — "I will come at them from before them and behind them, from their right and from their left."
+- v.18: The consequence: "Whoever follows you — I will fill Hell with all of you."
+- FULL Arabic + word-by-word for ALL eight verses.
+
+c) **Q 15:28-43 — The second prostration account:**
+- v.28-29: إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ / فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي — "I am creating a human from dried clay, from dark mud molded / So when I have proportioned him and BREATHED into him of My spirit (*nafakhtu fīhi min rūḥī*)..."
+- The verb *nafakhtu* — root n-f-kh, to blow/breathe. Same root as Hebrew *nippuaḥ* (Genesis 2:7).
+- *min rūḥī* — "of My spirit." CRITICAL: Is this emanation (a piece of God's essence) or attribution (a created thing honorifically called "My spirit")? Pull the Ibadi reading (iḍāfat tashrīf — honorific attribution to a created thing, per the project's §1.5).
+- FULL Arabic + word-by-word.
+
+d) **Q 38:71-85 — The third prostration account, most detailed dialogue:**
+- Full Arabic + word-by-word.
+- How does this version differ from Q 7 and Q 15? Map every divergence.
+
+e) **Q 18:50 — كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦ — "He was of the jinn, and he departed from the command of his Lord."**
+- This is the verse that establishes Iblis's SPECIES (jinn, not angel).
+- Pull Atfiyyash's tafsīr on this verse (Himyān al-Zād or Taysīr al-Tafsīr). Arabic text + translation.
+- Pull al-Zamakhsharī's reading. Pull al-Rāzī's reading.
+- The istithnā' munqaṭi' (disconnected exception) vs. istithnā' muttaṣil (connected exception) on Q 2:34: does Iblis belong to the category "angels" (muttaṣil — he was one of them and refused) or NOT belong (munqaṭi' — he was among them by association, not by species)? This is the grammatical crux of F341.
+
+f) **Ibn 'Arabi, Fuṣūṣ al-Ḥikam, Faṣṣ Ādam** — the passage describing Adam as *barzakh al-jāmi'* ("the gathering isthmus") who holds ALL the divine names. Arabic text (Afifi critical edition) + translation.
+- Does Ibn 'Arabi distinguish between the names the angels know (domain-specific) and the names Adam knows (total)? Pull the specific language.
+
+g) **Al-Ḥallāj on Iblis** — the passage from Kitāb al-Ṭawāsīn (specifically Ṭāsīn al-Azal wa-l-Iltibās) where al-Ḥallāj presents Iblis as a tragic monotheist — his refusal to prostrate was motivated by extreme devotion to God's oneness (tawhīd) and refusal to bow to anything created. Arabic text + translation.
+- Note: al-Ḥallāj was EXECUTED for this theology (922 CE). The suppression is historical fact.
+
+h) **SEARCH Arabic-language tafsīr databases** for any commentary tradition that explicitly discusses the BIOLOGICAL dimension of Iblis's refusal — i.e., fire-substrate as a perceptual limitation, not just moral arrogance. Does any mufassir frame it as inability rather than unwillingness?
+
+### 4. INCA / ANDEAN — The Espíritu at Tiahuanaco
+
+a) **Betanzos, Suma y narración de los Incas (1551), Part 1, Ch. 1-2:**
+- The SECOND creation at Tiahuanaco: Viracocha sculpts the nations on stone slabs and "les dio espíritu" — gives them spirit.
+- Spanish original text of the FULL passage, not a summary.
+- CRITICAL: Is *espíritu* Betanzos's word or does it reflect a Quechua concept he's translating? What Quechua word might underlie it? (Betanzos was married to an Inca princess and spoke fluent Quechua — his translations are considered the most reliable.)
+- Apply Catholic Filter: Is "les dio espíritu" Layer A (genuine indigenous concept translated into Spanish theological vocabulary), Layer B (coincidental parallel), or Layer C (Catholic overlay)?
+
+b) **Huarochirí Manuscript** — does this Quechua-language source contain ANY concept of a breath/spirit being given to humans at creation? Search the entire text. If NULL, state it — that constrains whether the "espíritu" is indigenous or Spanish.
+
+c) **The Coricancha cosmogram (Pachacuti Yamqui ~1613):** — the drawing showing a FORMLESS OVAL at the apex above paired celestial/earthly powers. Describe the drawing precisely. What did Pachacuti Yamqui write next to the oval? Does his own annotation call it "Dios" (Catholic overlay) or something else?
+
+### 5. K'ICHE' MAYA — Popol Vuh
+
+a) **Popol Vuh, Part 2, Chapters 2-3** — the creation sequence:
+- First attempt: animals (can't speak, can't praise)
+- Second attempt: mud people (dissolve, can't hold form)
+- Third attempt: WOOD PEOPLE — vessels made without soul, functional but empty. They walk, they talk, they reproduce — but "there was nothing in their hearts and nothing in their minds, no memory of their Mason and Builder." They are destroyed by flood.
+- Fourth attempt: corn people — successful.
+- K'iche' text (Christenson edition or Sam Colop edition preferred) + translation.
+- CRITICAL: The wood people are the project's F281 — "vessel without soul" proof-of-concept. The text EXPLICITLY describes beings that function physically but lack some inner quality. What K'iche' word is used for what they lack? Is it *k'ux* (heart/core)? *nawal* (spirit/essence)?
+
+### 6. YORUBA — Obatala's Creation
+
+a) **The Ifá corpus or Oriki Obatala** — the narrative where Obatala gets drunk on palm wine while shaping humans from clay, creates "botched" humans (disabled, albino, etc.), and these are assigned social roles / become sacred.
+- Source text in Yoruba + translation.
+- CRITICAL: This parallels Enki and Ninmah's drunk creation (ETCSL 1.1.2) in specific details (divine craftsman, intoxication, imperfect products, social role assignment). Is there a historical transmission pathway (trans-Saharan contact?) or is this convergent?
+- SEARCH French-language Africanist scholarship (publications from IFAN Dakar, Université Cheikh Anta Diop, Présence Africaine) for analysis.
+
+### 7. EGYPTIAN — Human Creation in Pyramid/Coffin Texts
+
+a) **Coffin Texts Spell 80** — the passage where humans are described as "the cattle of God" (*'iwt nṯr*) or as emerging from the tears of Re. Hieroglyphic transliteration + translation.
+- Does any Egyptian text describe a "breath into clay" creation? Or is Egyptian anthropogony different in structure?
+- SEARCH French Egyptology (IFAO Cairo, Collège de France) for analysis.
+
+b) **Instruction of Merikare** — the passage on human creation: "He made for them plants, animals, birds, fish... He made the breath of life for their nostrils." Hieratic text + translation.
+- Does this preserve a nafkha parallel?
+
+### 8. TIBETAN / BUDDHIST — Is There a "Creation of Humans" Narrative?
+
+a) SEARCH the Kangyur/Tengyur for any Buddhist text that describes the creation or emergence of humans specifically. The Aggañña Sutta (Pali: Dīgha Nikāya 27) describes a degradation-from-light-beings narrative — pull the Pali text + translation.
+- CRITICAL: Buddhism generally does NOT have a creation narrative. If this module finds a genuine NULL — no Buddhist "breath into clay" moment — state it clearly. The absence constrains the pattern to non-Buddhist traditions.
+
+---
+
+## CROSS-TRADITIONAL SYNTHESIS
+
+1. **The "breath into clay" convergence:** Map every tradition that independently describes a breath/spirit being placed into a material vessel: Atrahasis (*ṭēmu* from Wê-ila), Genesis (*nishmat ḥayyim*), Quran (*nafakhtu fīhi min rūḥī*), Inca (*espíritu*), Egyptian (*breath of life for their nostrils*). How many are truly independent?
+
+2. **What the breath GRANTS:** Does each tradition specify what capacity the breath gives? Map: ALL names (Quran), intelligence/planning (Atrahasis *ṭēmu*), life (Genesis *ḥayyim*), spirit (Inca *espíritu*), heart/memory (Popol Vuh by its absence in wood-people). Is there convergence on what makes humans unique?
+
+3. **The refusal/fall pattern:** Is the "commander refuses to honor the new creation" narrative found ONLY in Quranic/Islamic sources, or does any other tradition preserve a parallel? (The Gnostic Yaldabaoth refuses to acknowledge Sophia's light in Adam? Pull if available in Coptic.)
+
+4. **The two knowledge streams:** Pull 1 Enoch's teaching specialties (rebel=direct download) alongside the prophetic-chain model (loyal=indirect, through human imagination). Are these two modes explicitly contrasted in any single text?
+
+---
+
+**NO ENGLISH-LANGUAGE SOURCES. NULL RESULTS = DATA. ALWAYS STATE WHAT'S MISSING.**
