@@ -1,0 +1,100 @@
+TRUTH PROJECT — UPSTREAM SOURCE RESEARCH PROMPTS
+Tracing the Five Tributaries Behind Islamic Scholarly Synthesis
+Generated: June 1, 2026 | Claud + Gemm
+Purpose: Bypass the Arabic synthesis layer and read each source tradition DIRECTLY in its original language
+
+METHODOLOGY — APPLIES TO ALL SIX PROMPTS
+The Problem: Arabic tafsir and Islamic scholarly works contain detailed cosmological, angelological, and historical material that exceeds what is found in the "standard" ancient texts recognized by Western scholarship. This material entered Islamic intellectual culture through at least five independent knowledge streams. We need to read those streams BEFORE they merged — in their original languages, using their own terminology, tracing the same structural roles by FUNCTION rather than by name.
+Why Function Not Name: Every tradition modifies the names (F83 — Henning 1943). A search for "Azazel" in Manichaean texts will return nothing; a search for "the being who teaches metallurgy and weapons to humans and is punished for it" will find the structural equivalent. Search by WHAT THE BEING DOES, not what it's called.
+The 14 Structural Roles to Track (Entity Unification Key):
+#RoleFunction to Search For1THE SOURCEThe ultimate substrate/origin. Not a being. Before everything. The ground of existence itself2THE ARCHITECTFirst active creator. Designs the system. Creates through speech/thought/command3THE ENGINEERHands-on builder. Shapes humans, constructs world. Associated with water/craft/wisdom4THE PRETENDERRebel leader. Claims supreme authority. Ignorant of or lying about higher levels5THE COMMANDERHighest loyal military/administrative authority. Enforces order6THE MOTHERFeminine creative/mediating force. Source of wisdom or the creative act itself7THE DECORATED REBELFormerly loyal officer who refuses a command and leads a faction in rebellion8THE TECH LEADSubordinate rebel who teaches forbidden technology. Gets blamed9THE MEDIATORBeing who negotiates between factions or between divine and human. Messenger10THE TEACHERPost-catastrophe civilization-giver. Arrives, teaches, departs. Deposits principles not products11THE TRICKSTERAmbiguous figure. Sometimes helps, sometimes destroys. Tests boundaries12THE MASKThe perceptual filter / counterfeit spirit / veil of forgetting installed in or natural to humans13THE GATETransit system for consciousness. Password-gated. Pre-existing. Not built by entities14THE SUBSTANCESacred drink/plant/elixir that opens perception or extends life. Differs by species
+The 7 Narrative Beats to Track:
+
+What existed before the current order? (Pre-human species, previous civilizations, the state before creation)
+How were humans created and what makes them unique? (The breath/gift/capacity that other beings lack)
+What caused the rebellion/fall/split? (Why did a faction break away? What was the trigger?)
+What did the rebels teach and what did the loyal teach? (The two curricula — products vs principles)
+What was the catastrophe and what changed after it? (Flood/reset/treaty and the new rules)
+How do souls/consciousness transit after death? (Gates, passwords, recycling, harvesting, liberation)
+What is the endgame? (Eschatology — how does this resolve? What are the factions working toward?)
+
+Output Format for Each Prompt:
+
+For each structural role found: give the NAME in original script + transliteration + the functional description FROM THE TEXT (not from our framework — let the text speak)
+For each narrative beat: quote or closely paraphrase the PRIMARY TEXT, cite the specific work and passage
+Flag CONVERGENCES with the project framework explicitly
+Flag DIVERGENCES — places where this tradition says something DIFFERENT from what we expected
+Flag NULL RESULTS honestly — "this tradition does not appear to address [X]" is valuable data
+Confidence rating on every claim: VH / H / M / L 
+
+
+
+
+---
+
+: PAHLAVI / ZOROASTRIAN LITERATURE
+Language: Middle Persian / Pahlavi (پهلوی), Avestan (اوستایی)
+Script: Pahlavi script and Avestan script
+Target: The Bundahishn, Dēnkard, Selections of Zadspram, Arda Viraf Namag, and the surviving Avesta
+SEARCH INSTRUCTIONS
+Search in Pahlavi (پهلوی) and Avestan with Farsi (فارسی) secondary scholarship. Use the following terms:
+Avestan / Pahlavi terms:
+
+اهورا مزدا / Ahura Mazdā (the Wise Lord) → Role #2
+انگره مینیو / اهریمن / Angra Mainyu / Ahriman (the Destructive Spirit) → Role #4 or #7
+سپنتا مینیو / Spenta Mainyu (the Creative/Holy Spirit) → Role #2 complement
+امشاسپندان / Amesha Spentas (the Seven Immortal Holy Ones) → Governance structure
+دیوان / Daēvas (the rejected gods) → Rebel faction
+فروشی / Fravashi (pre-existing soul/spirit) → nafkha parallel?
+خورنه / Xvarenah (divine glory/fortune — detachable, transferable) → Technology
+هوم / Haoma (sacred plant/drink) → Role #14
+ور / Vara (the underground refuge built by Yima) → Pre-catastrophe architecture
+چینود پل / Chinvat Bridge (the bridge of judgment) → Role #13
+سوشیانت / Saoshyant (the three saviors to come) → Eschatology
+فرشوکرت / Frashokart / Frashegird (the Renovation — final renewal) → Narrative Beat #7
+
+Functional search terms in Farsi:
+
+موجودات پیش از انسان (beings before humans) → Narrative Beat #1
+جنگ دیوان و اهریمن (war of the Daēvas and Ahriman) → Pre-human conflict
+آفرینش انسان / گیومرث (creation of humans / Gayomard) → Narrative Beat #2
+سقوط جمشید / گناه جمشید (fall of Jamshid / sin of Jamshid) → Role #7 (Decorated Rebel)
+ضحاک / آژی دهاک / بیوراسب (Zahhak / Azi Dahaka / Bivarasb) → Role #4 (Pretender)
+تاریکی و نور / جنگ ازلی (darkness and light / eternal war) → Cosmological dualism
+پل صراط / عبور روح (bridge of judgment / crossing of the soul) → Role #13
+گیاه هوم / مراسم هوم (Haoma plant / Haoma ceremony) → Role #14
+روان پس از مرگ (the soul after death) → Narrative Beat #6
+زمان بیکران / زروان (Infinite Time / Zurvan) → Role #1 (Source)?
+
+SPECIFIC QUESTIONS
+
+The Bundahishn creation sequence IN PAHLAVI: Not the English summary — the ACTUAL Pahlavi text of chapters 1-4 (the creation and the assault of Ahriman). How does Ohrmazd create? Through Ahunvar speech (sound-creation, maps to shabda/logos). What exactly does Ahriman do when he attacks? The 3000-year stunned period — what happened during it? The creation of Gayomard (first human) — is there a BREATH installation?
+The Dēnkard's summary of lost texts: Books 3-5 of the Dēnkard summarize the content of Avestan works that no longer survive. Search for: descriptions of pre-human species, detailed accounts of the daēva rebellion, the original Watcher-equivalent administration, the specifics of what knowledge was taught to humans and by whom. The Dēnkard is the METADATA of a lost library — mine it for what it describes.
+The Arda Viraf Namag — the full ascent narrative: Viraf drinks a substance (mang — wine + henbane), his consciousness separates from his body, he travels through heaven and hell with two guides (Srosh and Adar). Full account of what he sees at each level. Map EVERY stage against the Gate system. Are there gatekeepers? Passwords? Tests? How many levels? This text predates the Islamic Mi'raj and Dante's Commedia.
+Yima/Jamshid's complete arc: In the Avesta, Yima is the PIVOT — loyal king who builds the Vara, expands the earth three times, then FALLS by embracing the druj (the Lie). His xvarenah departs in three flights. What exactly is the druj he embraces? What does it DO to him? Map this against the Mask model. The Shahnameh adds detail — Ferdowsi's Jamshid claims divine status ("من پدید آوردم" — "I brought forth..."). Is this in the Avestan/Pahlavi source or is it Ferdowsi's addition?
+The Vara engineering specifications: Vendidad chapter 2 describes the Vara in detail — three concentric zones, animals, plants, humans, dual lighting system (uncreated and created lights), temporal anomaly. Get the FULL Avestan text with every technical detail. Compare with the Zerus underground cities in western Iran (42+ km tunnel networks). The Vara is the most detailed underground-facility specification in any tradition.
+The Haoma ceremony — operational details: The Yasna ceremony with Haoma is STILL PERFORMED by Parsi communities. What exactly happens? What plant is used (Ephedra)? What prayers are spoken? What is the reported EXPERIENCE? Search for: مراسم هوم در زرتشتیان (Haoma ceremony among Zoroastrians), تجربه هوم (Haoma experience).
+The three Saoshyants and the Frashokart: Three saviors born from Zoroaster's seed preserved in Lake Kansaoya, each appearing at 1000-year intervals, culminating in the Renovation where Ahriman is finally defeated. Full details of each Saoshyant's role. What happens to the daēvas? What happens to human souls? Is the Renovation a restoration or a transformation? Map against all other eschatological traditions.
+
+
+
+-------
+
+
+
+
+
+
+DELIVERY INSTRUCTIONS (ALL PROMPTS)
+For each prompt, the researcher must:
+
+Search in the ORIGINAL LANGUAGE FIRST. English translations are acceptable only where originals are inaccessible, and must be flagged as translations.
+Use critical editions where they exist. Name the edition.
+Track beings by FUNCTION not by name. A null result on a name is not a null result on the function.
+Quote key passages in original script + transliteration + translation.
+Flag every convergence with the Truth Project framework explicitly.
+Flag every DIVERGENCE — these are as valuable as convergences.
+State null results explicitly. "This tradition does not address X" is data.
+Rate confidence: VH (textbook established) / H (well-supported) / M (plausible, needs verification) / L (speculative).
+Do NOT flatten traditions to make them fit. If a tradition contradicts the framework, report the contradiction.
+Distinguish between what the PRIMARY TEXT says and what COMMENTARIES say about it. The commentary layer is where institutional capture operates.
